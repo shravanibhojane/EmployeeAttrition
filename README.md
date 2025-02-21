@@ -8,3 +8,13 @@ Performance evaluation with accuracy, precision, recall, and F1-score
 Hyperparameter tuning for better predictions
 
 # Dataset 
+"https://github.com/shravanibhojane/EmployeeAttrition/blob/main/employee_attrition.csv"
+
+The dataset consists of 30 features related to employee demographics, job satisfaction, work experience, etc.
+The target variable is "Attrition" (Yes/No).
+
+# Results & Accuracy
+The XGBoost model achieved:
+
+Accuracy: ~85-90%
+Precision, Recall, F1-Score: Well-balanced
