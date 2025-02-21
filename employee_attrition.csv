@@ -1,0 +1,1001 @@
+EmployeeID,Age,Gender,MaritalStatus,Department,JobRole,Salary,YearsAtCompany,YearsInCurrentRole,JobSatisfaction,WorkLifeBalance,Overtime,DistanceFromHome,TrainingTimesLastYear,PerformanceRating,NumCompaniesWorked,StockOptionLevel,TotalWorkingYears,JobInvolvement,Education,EnvironmentSatisfaction,MonthlyIncome,JobLevel,YearsSinceLastPromotion,YearsWithCurrManager,HourlyRate,DailyRate,MonthlyRate,Attrition
+1,50,Female,Married,Operations,Manager,49942,25,16,4,2,Yes,21,2,4,1,2,31,3,High School,3,10084,3,11,14,17,696,6691,No
+2,36,Male,Divorced,Sales,Analyst,50862,8,19,2,3,No,10,5,4,5,1,34,2,High School,4,15455,3,9,11,83,254,9669,No
+3,29,Male,Married,IT,Clerk,41669,1,6,1,4,Yes,16,7,4,5,0,29,2,Master's,2,13607,2,9,4,25,1292,26213,No
+4,42,Male,Married,Operations,Executive,83772,20,11,2,4,Yes,7,8,2,3,2,3,1,Bachelor's,4,19919,1,1,6,61,895,20280,No
+5,40,Male,Divorced,HR,Engineer,45916,23,5,4,1,No,4,5,4,4,0,9,2,High School,4,17236,2,11,14,35,371,21449,No
+6,44,Female,Married,Sales,Clerk,40878,32,16,1,4,Yes,27,4,3,4,1,11,3,PhD,3,19236,3,5,6,17,1670,4748,Yes
+7,32,Female,Divorced,Sales,Manager,32985,11,7,4,2,Yes,25,1,2,1,1,11,2,Bachelor's,4,13819,1,13,12,54,1543,25076,Yes
+8,32,Female,Divorced,HR,Engineer,127905,39,5,2,4,Yes,31,1,1,4,1,25,3,Master's,4,14969,2,6,2,93,1307,4661,Yes
+9,45,Male,Married,Operations,Executive,103648,24,11,3,1,Yes,11,8,2,1,2,22,1,PhD,1,14700,1,5,12,90,1734,21362,No
+10,57,Female,Married,Finance,Clerk,71235,11,15,3,2,No,48,1,1,5,2,9,4,High School,4,3543,1,7,2,28,1360,25333,No
+11,45,Male,Single,HR,Engineer,48931,29,3,2,4,No,20,1,1,3,0,20,3,Bachelor's,3,6900,4,8,1,26,1632,24759,Yes
+12,24,Female,Divorced,Operations,Clerk,122876,26,5,2,4,Yes,36,2,3,3,2,21,4,PhD,4,14945,2,7,3,74,1564,24843,No
+13,43,Male,Single,HR,Clerk,30336,16,5,2,3,No,17,2,4,5,2,10,1,Bachelor's,3,7224,3,4,16,38,1080,17173,No
+14,23,Male,Married,HR,Executive,72933,35,9,1,1,Yes,45,3,4,2,1,22,3,High School,2,16758,2,7,5,23,221,28399,Yes
+15,45,Female,Single,IT,Analyst,114899,20,15,4,4,No,11,6,2,2,0,29,3,Bachelor's,4,17949,2,9,10,26,1540,13599,No
+16,51,Female,Divorced,Operations,Engineer,75536,3,3,4,3,No,30,8,4,4,1,9,2,PhD,4,5866,2,14,5,22,1658,8107,No
+17,59,Female,Single,Finance,Executive,99504,1,6,4,2,No,35,1,3,1,0,5,3,Bachelor's,4,11268,4,14,1,72,1498,14698,No
+18,23,Female,Divorced,IT,Clerk,129214,1,17,2,3,No,41,3,2,3,0,11,1,Master's,2,15813,1,9,16,42,1698,28324,No
+19,42,Male,Married,HR,Executive,81148,17,8,4,3,No,38,8,2,4,2,1,4,Master's,1,19732,3,8,2,38,1449,24885,No
+20,54,Female,Married,HR,Analyst,143936,2,11,2,4,Yes,22,1,2,5,1,1,3,PhD,4,7601,4,13,11,46,1603,15309,No
+21,33,Female,Divorced,HR,Engineer,46279,29,6,1,4,No,43,9,4,3,2,39,1,Bachelor's,3,15930,3,7,13,92,249,4661,No
+22,43,Female,Married,Operations,Analyst,98665,20,8,3,4,Yes,48,0,4,1,2,5,1,PhD,1,7333,4,1,1,55,806,17133,Yes
+23,46,Male,Married,Operations,Manager,133751,6,10,2,3,Yes,27,9,4,1,2,22,3,Bachelor's,1,8399,1,1,4,33,1094,24549,Yes
+24,48,Male,Married,IT,Engineer,134433,8,3,2,2,No,37,7,2,2,0,26,2,High School,1,10436,3,11,9,23,1715,10210,No
+25,49,Female,Married,Finance,Analyst,101386,29,14,3,1,Yes,46,8,2,4,1,6,3,Master's,4,17947,2,2,9,14,1613,5358,No
+26,37,Male,Divorced,IT,Clerk,116124,33,14,3,3,No,49,6,1,5,1,32,3,High School,2,16961,4,6,8,62,1950,2275,Yes
+27,36,Female,Single,Sales,Engineer,135750,3,10,1,4,Yes,35,7,1,3,2,11,2,Bachelor's,2,11086,3,8,12,97,252,6078,Yes
+28,24,Male,Single,HR,Engineer,107485,35,12,4,1,Yes,4,3,4,1,0,10,1,High School,4,6682,1,7,9,39,1140,23138,Yes
+29,58,Male,Married,HR,Executive,104055,5,6,2,2,No,16,3,2,3,1,39,3,PhD,3,4854,3,8,5,69,650,13137,Yes
+30,28,Male,Single,HR,Clerk,121911,27,12,4,1,No,16,1,4,5,1,34,2,PhD,3,5985,4,5,10,82,944,6698,Yes
+31,42,Male,Single,IT,Manager,128618,12,14,2,4,No,21,7,4,3,2,31,4,Bachelor's,3,13817,1,0,3,37,1471,2364,Yes
+32,30,Female,Married,IT,Analyst,107273,20,2,1,3,No,26,1,1,4,0,12,4,Master's,4,10496,2,13,13,35,1582,12165,Yes
+33,39,Female,Married,HR,Executive,96670,20,9,3,3,Yes,36,8,3,2,2,16,2,PhD,2,3558,4,11,16,27,1325,2794,No
+34,25,Female,Single,IT,Analyst,106474,9,10,1,4,No,19,3,4,3,1,38,1,Master's,4,4254,4,3,19,45,1546,15646,Yes
+35,46,Male,Divorced,Operations,Manager,84028,39,17,3,3,Yes,17,0,3,2,0,3,2,Bachelor's,2,18667,1,12,1,17,379,25179,Yes
+36,35,Female,Married,Operations,Manager,120022,4,17,4,4,Yes,45,3,3,5,2,2,1,Master's,1,19078,4,5,9,27,521,7870,Yes
+37,30,Female,Divorced,IT,Engineer,143892,19,3,4,3,Yes,26,2,2,2,1,5,4,Bachelor's,4,13006,3,14,2,93,1723,2589,No
+38,47,Female,Single,HR,Manager,121632,38,19,1,3,Yes,22,5,2,3,2,11,3,High School,2,9283,2,11,6,67,1092,22678,No
+39,23,Male,Married,IT,Analyst,136651,27,1,3,3,Yes,28,6,4,3,2,25,2,Bachelor's,1,11854,3,5,6,41,1588,6313,No
+40,41,Male,Divorced,IT,Clerk,101128,13,12,1,2,Yes,1,7,1,1,2,35,4,High School,1,15308,1,14,0,58,1935,27316,Yes
+41,49,Male,Married,IT,Clerk,48108,13,7,3,2,No,44,1,1,3,0,35,3,Bachelor's,4,6325,4,7,7,57,903,18211,Yes
+42,28,Female,Single,Sales,Engineer,82495,22,4,3,4,Yes,36,5,4,2,1,22,4,PhD,2,6143,2,14,0,91,454,23129,Yes
+43,29,Female,Divorced,Operations,Analyst,112806,28,10,4,2,Yes,43,5,4,1,1,37,2,PhD,1,6037,1,0,7,80,1705,28770,No
+44,56,Female,Single,Finance,Analyst,123185,22,13,4,4,Yes,37,9,1,3,1,22,2,Master's,4,15417,3,12,13,74,477,9377,No
+45,35,Male,Single,Finance,Manager,106533,19,2,3,1,No,2,4,3,3,1,11,3,Bachelor's,1,7675,4,10,13,42,1247,10861,No
+46,38,Male,Married,Sales,Analyst,129025,8,10,3,1,No,17,9,4,5,0,32,2,Bachelor's,3,10148,4,1,1,59,179,19821,No
+47,57,Female,Divorced,IT,Executive,86830,8,4,3,2,Yes,40,9,3,1,2,35,4,Bachelor's,4,10551,1,1,7,13,1680,14952,No
+48,25,Male,Single,Sales,Manager,104640,26,18,4,1,No,38,6,4,5,1,31,3,Master's,1,19490,3,12,18,93,1087,11047,No
+49,23,Male,Single,Sales,Executive,82509,26,5,4,1,Yes,21,2,4,5,0,8,3,PhD,4,5668,4,5,9,45,332,28953,Yes
+50,27,Male,Divorced,HR,Engineer,96406,23,19,2,3,No,9,3,3,5,2,20,4,Bachelor's,4,17912,3,13,6,37,1603,6033,No
+51,25,Male,Single,Operations,Clerk,124220,13,2,3,3,Yes,13,9,3,4,0,34,1,Master's,2,5246,2,13,12,12,253,20277,No
+52,50,Female,Single,Finance,Engineer,69519,28,12,2,4,No,11,8,1,5,0,4,3,Bachelor's,2,9653,4,10,14,15,1006,25903,No
+53,39,Male,Divorced,IT,Clerk,79649,9,17,3,1,No,16,3,4,2,1,18,1,High School,1,14133,2,6,10,54,1815,27762,No
+54,47,Male,Divorced,Finance,Engineer,64524,20,10,4,4,No,16,2,2,3,1,4,4,Bachelor's,4,10649,4,1,13,32,1532,20226,Yes
+55,55,Male,Divorced,Finance,Analyst,126493,19,2,2,4,Yes,2,1,2,4,2,20,4,High School,4,19895,1,4,10,16,1154,24628,Yes
+56,31,Male,Divorced,Operations,Executive,63885,39,6,2,1,Yes,42,4,4,5,2,9,3,Master's,3,11441,4,5,1,70,1720,18710,No
+57,57,Female,Married,Finance,Clerk,74369,12,8,1,2,Yes,44,3,4,3,1,16,2,Master's,4,3888,4,3,1,74,1680,29802,Yes
+58,35,Female,Divorced,Finance,Manager,131132,15,19,3,1,No,8,7,4,1,0,26,3,PhD,2,12215,3,0,11,15,1626,20784,Yes
+59,52,Male,Married,Sales,Executive,125402,31,11,4,3,No,43,6,3,1,1,38,2,Bachelor's,4,11791,3,2,14,33,470,26490,Yes
+60,36,Male,Married,Operations,Manager,60676,14,12,1,1,Yes,42,5,2,3,2,25,1,Master's,2,14075,2,13,16,46,422,6278,Yes
+61,29,Male,Married,HR,Executive,94093,11,9,1,2,No,13,1,2,2,0,4,2,PhD,3,18204,2,9,13,54,431,22934,Yes
+62,35,Male,Single,IT,Executive,77764,26,2,3,4,Yes,17,2,2,3,0,38,3,Bachelor's,1,12950,2,8,15,60,342,9500,Yes
+63,44,Male,Married,Finance,Engineer,80799,27,8,1,4,Yes,39,9,4,3,0,19,2,Master's,2,8413,4,12,7,97,1675,6015,Yes
+64,42,Male,Married,IT,Clerk,109414,11,11,3,3,Yes,24,8,3,4,1,14,4,High School,1,9537,4,5,16,54,529,23836,No
+65,37,Female,Single,HR,Clerk,135296,38,4,1,3,Yes,3,8,4,1,1,21,1,Master's,1,6569,2,1,4,72,1305,22690,Yes
+66,39,Male,Single,IT,Executive,123095,34,10,3,3,No,30,4,1,1,2,15,4,High School,1,4242,1,8,11,38,908,10242,No
+67,45,Female,Single,HR,Analyst,142082,19,16,4,4,No,13,2,1,5,0,3,4,PhD,1,7329,1,3,5,34,1596,28044,Yes
+68,47,Female,Divorced,Sales,Analyst,102307,6,8,3,3,No,19,1,2,3,0,37,4,PhD,2,13487,4,10,17,19,475,9826,Yes
+69,46,Male,Single,Finance,Manager,112062,38,4,3,1,Yes,7,7,4,3,1,16,4,Bachelor's,3,6395,1,12,4,44,180,11201,Yes
+70,50,Female,Single,HR,Manager,125432,28,10,2,4,No,9,5,1,2,2,14,2,Bachelor's,4,19824,1,7,5,64,1673,25167,No
+71,36,Female,Married,IT,Engineer,61923,1,12,4,2,Yes,19,9,1,1,2,9,4,Bachelor's,2,11039,2,9,8,34,1991,21941,Yes
+72,22,Female,Single,Finance,Executive,147449,35,14,4,4,Yes,45,6,4,2,0,7,2,PhD,3,11198,1,6,14,54,519,17105,No
+73,46,Female,Divorced,Sales,Manager,131739,8,16,4,1,Yes,40,0,3,4,1,14,4,High School,4,4586,1,11,9,21,566,27650,Yes
+74,28,Female,Single,Finance,Manager,134926,7,18,1,1,Yes,22,0,4,5,0,6,3,Bachelor's,1,6824,4,10,16,13,1551,2153,Yes
+75,30,Female,Divorced,HR,Executive,108388,11,12,2,3,Yes,18,9,4,2,1,21,4,Bachelor's,4,6436,4,2,18,99,1180,10773,No
+76,45,Male,Single,Sales,Engineer,77574,39,18,4,4,Yes,23,1,3,1,2,15,3,PhD,4,11089,4,14,11,76,1445,19171,Yes
+77,22,Female,Single,IT,Manager,73391,4,7,1,4,No,2,9,2,4,0,8,2,High School,3,19057,1,7,8,26,1665,6886,Yes
+78,29,Female,Single,Sales,Engineer,83664,25,7,1,4,No,11,2,2,3,0,34,1,Master's,4,4310,2,3,14,82,1618,21765,Yes
+79,45,Female,Single,Sales,Clerk,97384,12,9,1,2,No,31,0,2,4,0,1,2,Bachelor's,1,12819,3,1,13,74,1389,25950,No
+80,32,Male,Divorced,Operations,Engineer,61027,26,1,2,3,No,33,4,3,2,2,32,1,Master's,2,18465,4,10,0,91,1350,24661,Yes
+81,38,Female,Divorced,Sales,Analyst,65464,38,6,1,1,Yes,14,2,1,1,0,5,1,Master's,2,16457,4,4,16,62,928,4267,Yes
+82,29,Male,Married,Sales,Analyst,64485,12,6,2,1,Yes,16,0,3,2,2,30,4,Bachelor's,3,3477,4,0,0,93,903,22642,Yes
+83,56,Female,Divorced,Finance,Engineer,49456,37,12,3,3,No,11,7,4,3,1,22,1,PhD,1,11906,2,12,12,66,1177,2970,No
+84,56,Male,Single,IT,Analyst,104795,24,12,1,1,No,33,5,3,3,2,20,2,Bachelor's,1,12868,3,7,7,37,1732,10839,Yes
+85,54,Male,Married,Finance,Clerk,65554,16,10,4,1,No,7,8,1,1,1,16,4,High School,4,3508,3,13,12,25,1077,15813,No
+86,26,Female,Married,Finance,Executive,76922,13,6,1,3,No,31,2,1,5,2,7,1,High School,3,10319,4,7,15,30,103,19329,Yes
+87,49,Female,Married,HR,Analyst,43409,25,17,3,1,No,48,8,4,4,2,7,2,Bachelor's,1,3381,1,2,1,86,1562,16450,Yes
+88,28,Male,Single,Finance,Analyst,99327,4,19,3,4,No,46,8,2,4,0,2,1,Master's,1,18287,4,0,12,51,1433,7618,No
+89,30,Female,Divorced,Operations,Engineer,121400,11,18,1,2,No,47,0,1,3,2,14,1,High School,1,4845,4,3,17,63,702,26575,No
+90,29,Male,Single,Operations,Clerk,66639,32,6,3,3,No,14,2,1,2,0,31,4,High School,2,15562,1,8,2,41,1212,3495,No
+91,33,Male,Married,HR,Executive,130110,7,19,2,2,Yes,28,5,1,2,1,14,4,Bachelor's,2,12910,1,8,12,47,419,4047,No
+92,55,Male,Single,IT,Engineer,93627,11,10,2,1,Yes,43,7,4,5,1,5,2,Bachelor's,2,7629,4,14,18,79,1498,11364,No
+93,54,Male,Single,IT,Engineer,113424,28,8,1,1,Yes,16,3,1,2,0,11,4,PhD,4,8704,2,0,12,47,1727,15091,Yes
+94,44,Male,Divorced,Finance,Clerk,49692,23,6,2,4,Yes,19,4,2,4,1,5,4,Bachelor's,4,4776,2,10,18,63,600,4886,Yes
+95,45,Female,Divorced,Finance,Executive,119037,23,7,2,3,No,17,8,4,2,2,29,3,Bachelor's,4,18513,1,14,3,69,1785,23572,No
+96,58,Male,Married,Finance,Clerk,108840,28,1,4,1,Yes,26,5,2,5,0,11,3,High School,1,18228,4,6,18,86,1357,17161,Yes
+97,56,Male,Single,IT,Executive,84200,26,18,1,3,No,6,6,1,4,0,5,2,High School,2,4244,2,5,17,86,1460,6158,Yes
+98,43,Female,Single,Sales,Clerk,123063,25,12,3,3,Yes,43,6,1,2,0,32,4,High School,1,4333,4,13,5,56,670,27308,No
+99,48,Male,Divorced,Operations,Engineer,87415,29,16,1,3,No,49,3,2,4,1,36,2,Master's,1,6669,4,6,18,21,284,29663,No
+100,56,Female,Single,Sales,Engineer,48074,19,10,2,3,No,9,3,4,3,1,15,3,High School,3,18579,4,6,3,62,1561,21845,No
+101,22,Female,Single,Sales,Manager,45549,33,10,4,3,Yes,17,3,4,3,2,19,3,High School,1,4933,2,7,3,42,655,8733,Yes
+102,56,Female,Single,IT,Analyst,59963,36,14,1,2,Yes,31,4,2,3,2,22,3,Bachelor's,4,3746,3,7,6,37,1303,3657,No
+103,58,Male,Divorced,Sales,Clerk,121456,14,10,1,4,No,12,4,1,2,0,34,2,PhD,2,12032,4,9,6,12,1199,7043,Yes
+104,35,Male,Married,HR,Manager,126362,14,10,2,3,No,23,7,3,5,2,17,4,High School,2,9827,2,13,15,91,1779,8360,No
+105,24,Male,Married,Finance,Analyst,131607,35,11,2,2,No,5,8,2,4,1,12,1,PhD,1,19197,3,10,15,35,1736,18862,No
+106,22,Female,Single,HR,Clerk,82265,30,2,1,1,Yes,43,1,2,1,2,25,4,High School,4,3792,1,1,4,63,992,11329,No
+107,26,Male,Married,Operations,Executive,46061,28,8,2,3,Yes,36,6,2,3,1,17,2,High School,4,9927,2,11,14,49,1395,22337,No
+108,47,Female,Divorced,Finance,Analyst,88226,17,7,2,1,No,36,0,1,3,2,10,3,PhD,4,12742,3,11,3,75,154,27552,Yes
+109,35,Male,Divorced,Sales,Engineer,58810,3,8,2,3,Yes,3,0,4,1,1,28,1,Bachelor's,2,9369,2,11,12,77,1824,26812,Yes
+110,48,Female,Married,Operations,Manager,90006,16,1,2,2,No,24,3,1,1,1,18,2,High School,4,17800,3,3,18,98,962,29099,Yes
+111,30,Male,Married,Finance,Analyst,143502,30,2,2,2,Yes,17,9,2,2,2,18,3,PhD,4,10874,3,3,6,99,1970,6043,No
+112,36,Male,Single,Sales,Analyst,52800,29,18,4,2,Yes,39,6,1,4,2,32,2,High School,1,19676,2,12,11,56,176,16242,Yes
+113,36,Male,Married,HR,Engineer,146192,15,15,2,4,Yes,26,1,1,3,1,14,1,Master's,3,9864,1,14,8,11,395,2597,Yes
+114,47,Female,Single,Finance,Clerk,138959,25,1,3,1,Yes,4,1,2,5,0,16,3,Master's,4,7022,4,10,16,51,1342,28278,Yes
+115,34,Female,Single,Sales,Executive,137228,38,5,1,4,Yes,45,0,1,2,2,18,4,Master's,1,14008,3,9,1,43,1400,28752,No
+116,53,Male,Divorced,HR,Engineer,105476,38,2,4,3,No,12,9,3,2,1,16,2,Master's,1,15102,4,11,15,30,1701,29133,Yes
+117,53,Male,Divorced,Operations,Executive,99460,23,3,4,1,No,1,1,1,5,2,17,1,Bachelor's,4,18342,1,12,6,53,1771,26740,No
+118,25,Female,Divorced,Operations,Clerk,87767,25,19,2,2,Yes,21,6,1,5,2,7,4,Master's,3,14110,4,7,17,96,845,4324,No
+119,51,Female,Divorced,Operations,Analyst,58054,7,18,1,1,No,19,8,4,5,2,12,1,PhD,2,8171,4,13,6,11,1834,9299,Yes
+120,58,Female,Married,Operations,Executive,105319,22,18,3,2,No,21,5,4,1,2,34,2,High School,3,12589,2,12,0,68,1389,13231,Yes
+121,44,Male,Divorced,IT,Manager,132789,17,14,2,4,Yes,18,9,2,3,2,10,1,PhD,4,9710,2,12,2,95,999,2569,No
+122,36,Female,Married,Finance,Manager,75397,18,8,1,4,No,43,1,2,1,0,5,3,Master's,3,8459,1,2,10,25,142,5328,No
+123,50,Male,Divorced,Finance,Engineer,43233,10,12,2,2,Yes,3,9,4,3,0,21,1,Bachelor's,1,17937,2,11,14,29,1484,18524,No
+124,57,Female,Married,IT,Clerk,141205,10,10,2,2,No,49,9,3,1,0,3,2,Master's,1,12754,3,12,2,35,1351,27261,Yes
+125,34,Male,Single,Sales,Engineer,120020,7,17,2,3,No,44,8,1,4,1,19,3,Master's,3,10048,1,14,12,25,326,27262,No
+126,53,Female,Married,Sales,Engineer,55068,38,11,2,4,No,32,6,3,3,0,35,1,Bachelor's,2,12483,2,12,3,79,1186,5280,No
+127,28,Female,Married,Operations,Engineer,95727,27,2,2,4,No,10,0,3,2,0,6,1,Bachelor's,3,15449,2,11,7,32,270,21147,No
+128,43,Female,Divorced,HR,Manager,120610,33,4,2,3,No,40,8,4,3,1,14,3,Bachelor's,4,18354,1,2,3,51,1062,5590,Yes
+129,49,Female,Married,Sales,Manager,100453,1,1,2,4,No,15,1,2,3,0,4,4,Bachelor's,2,3978,3,12,17,46,861,20422,No
+130,23,Female,Single,HR,Engineer,134135,34,15,3,2,No,5,3,1,3,2,18,4,Bachelor's,3,11709,1,1,6,81,949,19458,No
+131,27,Male,Single,Finance,Manager,55832,4,13,4,1,Yes,4,8,2,4,0,29,3,Bachelor's,3,18760,2,0,10,15,1885,24006,No
+132,49,Female,Divorced,HR,Clerk,138464,17,8,3,1,Yes,28,3,3,1,0,35,1,High School,2,14023,2,7,3,46,406,15570,No
+133,49,Female,Single,Finance,Engineer,116242,4,4,2,4,Yes,4,2,3,2,0,38,4,Master's,3,19521,1,13,12,31,1873,4225,No
+134,41,Female,Married,IT,Manager,43682,26,10,2,3,Yes,15,0,2,1,2,16,3,Master's,4,14145,3,8,8,15,667,16878,Yes
+135,51,Male,Single,IT,Executive,122298,4,19,3,2,No,17,6,2,1,2,20,2,Bachelor's,1,17491,3,8,8,41,1806,25907,Yes
+136,32,Female,Divorced,Operations,Engineer,53383,1,18,3,1,No,44,5,4,5,2,24,1,PhD,4,10392,4,10,18,26,1091,11533,No
+137,49,Male,Married,Sales,Engineer,88160,7,5,4,2,No,3,9,2,4,2,35,2,Bachelor's,3,14447,3,7,2,47,133,11881,No
+138,46,Female,Divorced,Operations,Clerk,123332,30,19,3,4,Yes,10,3,2,5,1,19,1,High School,1,11587,1,4,11,26,926,29586,No
+139,54,Female,Married,Finance,Analyst,53666,9,16,4,4,Yes,47,5,4,4,2,4,4,PhD,2,13129,3,0,10,46,1765,18747,No
+140,22,Male,Single,Operations,Analyst,88817,35,1,2,1,Yes,42,5,2,1,2,33,2,High School,4,16907,3,8,19,32,229,15366,No
+141,48,Female,Divorced,HR,Clerk,121198,8,12,1,4,No,23,3,3,1,2,2,2,PhD,2,8428,4,5,10,58,1517,17515,No
+142,34,Male,Divorced,Finance,Clerk,140695,24,2,1,3,Yes,18,5,2,4,2,13,3,PhD,1,5589,3,11,16,70,1274,27643,Yes
+143,24,Male,Married,IT,Clerk,64642,19,8,1,4,No,1,9,1,1,1,30,4,Bachelor's,3,6034,4,14,13,58,754,12832,No
+144,27,Female,Divorced,Sales,Analyst,71830,36,18,1,4,Yes,35,7,3,1,0,34,4,High School,1,3169,4,6,15,70,729,4030,No
+145,29,Male,Married,Finance,Clerk,133067,27,16,2,4,No,31,2,4,2,0,30,1,PhD,1,6239,3,7,9,86,1839,8685,Yes
+146,48,Female,Married,Finance,Manager,40234,32,5,1,2,Yes,44,3,3,5,2,24,3,High School,2,6415,2,12,3,41,1507,24849,Yes
+147,30,Female,Married,HR,Engineer,87616,14,13,3,2,No,1,9,4,5,2,33,3,Bachelor's,4,14408,1,4,9,95,1870,25175,Yes
+148,58,Male,Married,Sales,Engineer,39221,18,19,3,1,Yes,3,0,1,5,2,10,1,Bachelor's,1,6484,1,5,19,72,1140,8157,Yes
+149,54,Male,Single,IT,Executive,41410,28,3,1,1,Yes,3,3,1,3,0,18,2,Bachelor's,3,17923,3,11,11,16,693,15668,No
+150,45,Male,Married,Finance,Executive,110055,29,8,3,1,No,37,9,3,2,0,19,1,Bachelor's,1,9844,1,12,8,31,1137,19001,Yes
+151,36,Male,Divorced,Finance,Engineer,91413,16,12,4,4,No,19,9,2,5,2,7,1,Master's,2,6965,1,6,14,94,180,23821,Yes
+152,53,Female,Single,HR,Manager,31051,35,2,2,2,Yes,29,8,3,5,0,19,1,PhD,4,10184,4,6,8,15,1330,29722,Yes
+153,53,Female,Divorced,Operations,Analyst,140529,31,11,1,3,No,25,7,3,2,1,24,3,Master's,3,8380,2,1,6,70,303,20366,No
+154,45,Male,Single,IT,Analyst,105301,4,12,1,4,Yes,33,3,1,1,2,15,1,Bachelor's,2,18285,1,13,11,23,1502,24094,No
+155,33,Female,Married,Sales,Manager,106918,37,18,2,4,No,36,6,4,5,2,23,1,PhD,1,3111,2,10,19,25,1907,2193,No
+156,23,Female,Single,Finance,Analyst,108116,17,13,3,4,Yes,29,9,3,1,1,4,1,PhD,1,19143,1,11,13,12,1667,10164,Yes
+157,24,Female,Single,Finance,Clerk,86563,39,5,2,3,No,26,2,2,5,1,38,4,High School,4,19976,2,13,15,18,122,22842,No
+158,58,Female,Divorced,IT,Engineer,127859,26,12,2,1,Yes,4,8,1,4,0,4,2,Bachelor's,2,10413,2,0,18,56,713,3119,Yes
+159,38,Male,Divorced,Operations,Engineer,74757,39,2,3,3,Yes,49,9,3,3,1,5,2,Master's,2,17726,1,7,2,94,1285,15351,Yes
+160,23,Male,Married,Finance,Manager,107475,4,5,2,1,Yes,14,3,3,5,2,23,2,High School,4,8983,4,4,10,51,1733,25295,Yes
+161,23,Female,Single,IT,Analyst,81257,30,7,3,3,No,27,1,2,4,0,37,2,PhD,3,13321,2,9,19,51,243,8540,Yes
+162,49,Male,Single,HR,Executive,125500,30,12,3,2,Yes,33,9,3,2,1,11,3,Master's,2,14061,2,14,18,32,203,14394,No
+163,44,Male,Single,Operations,Executive,30307,22,16,2,4,No,22,4,3,4,0,11,3,Bachelor's,4,6598,1,1,7,12,1505,18910,No
+164,58,Male,Married,Sales,Analyst,86889,11,8,4,4,No,48,1,3,2,0,13,1,Master's,2,4526,2,2,19,10,1578,28528,No
+165,53,Female,Married,Finance,Executive,98895,2,9,3,4,No,3,9,3,5,0,14,3,Master's,4,10909,2,5,7,76,1540,25538,No
+166,54,Female,Married,IT,Manager,125184,12,15,2,1,Yes,23,5,2,2,0,8,2,Master's,1,4969,4,9,2,80,423,23263,Yes
+167,22,Female,Married,HR,Manager,65944,30,5,3,3,No,21,9,3,4,1,25,4,High School,1,12143,2,5,9,12,1294,16860,Yes
+168,40,Male,Married,Sales,Analyst,129555,36,13,4,2,No,41,0,3,3,2,18,1,PhD,2,14528,4,7,12,58,675,28358,Yes
+169,23,Female,Divorced,IT,Executive,68134,18,5,4,3,No,23,5,3,1,2,18,1,Master's,2,11301,2,4,8,76,1879,7845,Yes
+170,47,Female,Single,IT,Manager,57323,26,11,1,4,Yes,4,3,1,1,1,10,2,PhD,1,5354,2,4,5,64,1706,9971,Yes
+171,53,Male,Single,Sales,Manager,146205,7,10,3,2,No,21,2,2,3,2,7,2,High School,3,8319,4,6,14,13,373,21057,No
+172,27,Female,Single,HR,Clerk,101762,1,13,3,2,No,37,1,1,1,0,14,2,Bachelor's,4,3225,4,9,15,40,551,16153,No
+173,53,Female,Single,HR,Clerk,117225,26,9,2,4,No,43,6,1,5,0,15,3,Bachelor's,3,17520,3,12,4,75,980,26144,Yes
+174,25,Male,Single,Operations,Manager,126507,23,14,3,3,No,31,8,2,5,0,16,1,Master's,3,6011,2,13,12,87,224,28973,Yes
+175,32,Male,Single,Finance,Analyst,55954,26,18,1,4,Yes,21,2,1,4,1,2,2,High School,3,7126,4,14,18,73,1506,25581,No
+176,38,Male,Single,Sales,Engineer,85021,6,15,4,3,Yes,26,5,1,4,0,30,4,Bachelor's,1,3613,2,4,1,40,416,23485,No
+177,59,Female,Single,Sales,Engineer,119959,6,10,4,2,No,41,8,1,2,0,30,1,High School,2,17082,2,14,5,72,1966,29165,Yes
+178,45,Female,Divorced,Sales,Manager,125927,8,7,1,2,No,35,1,2,4,1,18,1,High School,3,19482,2,8,0,75,206,5526,No
+179,26,Female,Single,HR,Manager,109866,24,8,3,4,No,38,6,3,5,0,31,3,Master's,1,8458,1,5,14,40,1783,22233,No
+180,55,Male,Divorced,Finance,Manager,100427,22,3,3,2,No,24,4,4,4,0,13,1,Master's,4,12002,3,6,14,56,1006,3634,Yes
+181,27,Male,Married,Operations,Analyst,34992,19,15,1,1,Yes,11,4,4,1,2,20,2,High School,2,5699,1,11,13,31,1586,13201,Yes
+182,43,Female,Single,IT,Clerk,31961,37,16,2,2,Yes,41,6,2,2,1,35,2,High School,4,10517,3,7,6,83,529,2093,No
+183,32,Female,Married,IT,Manager,42497,18,4,4,1,Yes,29,8,4,2,0,23,4,Master's,3,4019,2,12,4,92,803,21750,No
+184,37,Male,Married,Sales,Manager,147551,31,6,1,2,Yes,47,3,2,5,0,33,1,High School,2,18903,2,4,19,55,1460,9716,Yes
+185,54,Male,Married,Finance,Executive,62551,37,1,1,4,No,3,8,2,4,0,38,1,Master's,3,16698,4,13,15,98,1861,16331,No
+186,30,Male,Divorced,HR,Analyst,106384,30,4,3,4,No,1,9,4,1,0,35,3,PhD,2,19150,3,10,16,67,1877,21330,No
+187,27,Male,Married,Finance,Manager,85755,33,11,4,1,Yes,19,8,1,4,2,36,2,High School,3,8578,3,3,10,70,1619,18472,No
+188,37,Female,Married,Finance,Executive,43255,10,12,3,4,Yes,46,3,3,3,2,20,4,Master's,4,9729,1,14,14,55,1071,16241,Yes
+189,50,Male,Married,HR,Engineer,34567,37,5,1,2,No,49,2,4,4,2,3,2,High School,4,9961,3,11,19,10,461,20934,No
+190,24,Female,Single,Sales,Manager,78847,12,16,2,2,No,22,1,4,5,2,8,1,Master's,3,14171,2,14,15,34,895,13006,No
+191,41,Female,Single,Finance,Manager,134817,30,13,4,4,No,14,8,4,4,1,32,1,High School,2,16947,4,7,2,70,531,24521,Yes
+192,57,Female,Divorced,IT,Executive,78003,27,13,1,2,No,49,1,4,2,0,29,4,Bachelor's,4,4957,1,11,5,90,774,8357,Yes
+193,40,Male,Divorced,HR,Analyst,50389,39,17,1,3,No,14,5,2,1,2,7,1,Bachelor's,2,16300,4,9,12,23,1643,3445,No
+194,47,Male,Single,Operations,Manager,74523,9,7,2,3,Yes,44,4,2,5,0,2,4,High School,2,7441,3,8,0,54,958,23005,Yes
+195,24,Male,Divorced,Sales,Engineer,91576,21,8,1,2,Yes,16,4,3,3,1,21,4,Bachelor's,4,16011,3,0,13,86,1529,8335,Yes
+196,40,Male,Single,HR,Manager,73919,12,13,1,4,No,33,3,3,1,0,6,2,High School,1,4101,1,2,1,48,1113,20214,No
+197,41,Female,Married,Operations,Engineer,112103,29,16,4,1,No,13,5,4,1,0,28,4,High School,1,12229,3,11,1,75,1500,29317,Yes
+198,53,Male,Married,Operations,Clerk,33358,33,4,4,4,Yes,38,4,4,2,2,36,1,PhD,2,16615,4,3,14,41,1275,25169,No
+199,28,Male,Divorced,Finance,Clerk,118535,15,8,4,1,No,49,3,4,2,2,32,3,PhD,4,17732,2,12,17,67,1445,25775,No
+200,54,Female,Single,Finance,Engineer,137894,2,16,3,4,Yes,12,8,3,2,1,9,3,Bachelor's,1,15366,1,6,8,65,1730,18938,Yes
+201,39,Male,Single,Finance,Analyst,106524,39,10,2,2,Yes,38,5,4,5,0,11,1,PhD,3,12970,3,5,2,15,1337,13956,No
+202,22,Female,Divorced,HR,Manager,135982,18,12,4,3,Yes,39,9,1,4,2,23,3,PhD,2,15992,4,9,3,98,675,20818,No
+203,32,Female,Single,HR,Manager,127057,3,12,3,4,Yes,33,9,3,1,2,11,3,High School,1,3981,2,9,14,76,1188,27256,No
+204,49,Female,Married,Sales,Clerk,35698,7,5,3,1,No,33,9,1,4,2,2,4,Master's,4,19130,3,10,4,91,992,8919,No
+205,46,Female,Divorced,Finance,Engineer,96809,18,16,2,3,No,29,2,4,4,1,3,3,High School,4,11566,1,0,19,59,369,7593,No
+206,44,Female,Divorced,Operations,Manager,123079,38,1,2,1,Yes,5,9,2,2,0,11,3,PhD,2,9349,3,3,19,47,1660,28207,Yes
+207,52,Female,Single,IT,Manager,85805,37,9,1,2,No,6,5,1,4,2,35,3,High School,4,13728,3,5,4,12,1223,18586,Yes
+208,51,Female,Divorced,Sales,Analyst,61349,33,12,3,3,No,31,0,3,1,0,15,2,Bachelor's,3,10548,3,2,9,14,1228,9153,No
+209,56,Female,Single,HR,Executive,106777,31,5,4,1,No,16,4,1,1,1,11,1,Master's,3,6446,2,14,15,33,1254,6542,No
+210,28,Male,Single,Sales,Clerk,80248,11,3,2,4,No,31,9,3,3,0,31,4,PhD,1,15820,2,1,11,63,1512,18192,Yes
+211,37,Male,Single,Sales,Clerk,105033,4,5,3,2,Yes,25,5,4,5,2,28,3,PhD,4,5872,3,1,13,43,1444,29715,No
+212,47,Male,Single,Sales,Executive,137411,18,2,4,2,No,48,7,1,4,0,28,1,High School,3,12368,3,9,10,48,537,15403,No
+213,23,Male,Single,Sales,Manager,128239,4,14,3,2,Yes,46,8,2,5,0,32,3,High School,2,4335,1,11,18,97,1142,15065,No
+214,22,Female,Divorced,IT,Analyst,74041,34,2,2,4,Yes,33,2,1,5,1,25,2,High School,4,8413,3,11,5,57,324,26394,Yes
+215,33,Male,Married,Finance,Analyst,61954,29,13,1,4,No,13,1,2,5,1,20,2,High School,1,19496,4,3,9,58,1741,28801,No
+216,26,Female,Married,Operations,Clerk,38002,24,7,3,3,Yes,10,3,3,5,0,28,3,PhD,2,16423,4,12,19,43,1689,11878,Yes
+217,58,Male,Divorced,Sales,Analyst,99783,22,10,4,4,No,24,7,4,1,0,25,3,High School,2,8294,1,0,2,89,1089,2828,No
+218,53,Male,Divorced,Sales,Executive,137524,2,13,2,3,No,10,7,4,4,0,11,3,PhD,2,13037,2,14,14,16,559,9170,No
+219,30,Male,Married,Sales,Manager,117234,6,16,1,2,Yes,41,2,2,3,1,19,2,High School,3,4987,3,9,10,27,493,20406,Yes
+220,56,Female,Married,Finance,Executive,49738,25,14,4,3,No,31,3,3,5,1,28,2,Master's,2,7829,1,1,1,79,1349,26678,Yes
+221,40,Male,Married,HR,Engineer,40703,21,11,4,1,Yes,13,2,4,3,0,1,1,Master's,3,14434,2,12,5,43,1011,11749,No
+222,37,Female,Married,HR,Clerk,143776,16,10,4,2,Yes,3,9,3,1,1,5,4,High School,2,17548,1,9,16,60,1483,22595,No
+223,24,Female,Married,IT,Analyst,79422,31,6,3,2,No,34,1,2,1,2,10,4,High School,3,19636,2,14,17,77,1553,23338,No
+224,41,Male,Single,HR,Engineer,113106,14,4,2,3,No,49,3,2,2,1,34,2,Bachelor's,4,12428,3,1,3,23,114,22471,Yes
+225,45,Male,Divorced,Sales,Analyst,91899,39,1,4,2,No,28,5,1,5,1,36,4,Master's,3,6156,1,3,8,78,659,29087,No
+226,54,Male,Single,Sales,Manager,42392,28,7,3,4,Yes,19,4,4,2,1,2,3,PhD,3,14328,3,3,9,98,1774,26679,Yes
+227,45,Female,Married,Sales,Manager,74724,32,9,2,1,No,23,2,4,3,2,18,1,Master's,4,6389,1,0,1,17,1103,15216,No
+228,32,Male,Married,IT,Manager,62299,28,8,2,3,Yes,45,1,1,4,2,13,2,PhD,2,12458,2,6,10,24,1669,13049,No
+229,29,Female,Married,Sales,Analyst,45641,9,5,3,3,Yes,32,8,2,2,2,5,2,High School,4,5945,1,6,10,92,513,8785,No
+230,57,Female,Single,HR,Engineer,109534,22,19,3,2,No,13,0,2,1,0,20,4,Master's,2,12352,4,9,10,68,1478,10998,No
+231,59,Male,Single,Finance,Manager,36305,32,10,4,4,No,33,8,2,5,0,2,3,Master's,3,13486,4,10,0,20,1580,25550,No
+232,41,Male,Married,Finance,Engineer,128262,5,11,2,2,No,34,0,2,3,2,11,1,Bachelor's,2,11632,1,9,13,29,1845,6655,No
+233,56,Female,Single,Operations,Analyst,48782,23,15,1,2,Yes,33,6,3,1,0,30,4,Bachelor's,3,5092,4,9,0,64,1654,20458,No
+234,46,Female,Single,HR,Engineer,108257,5,6,3,3,No,5,5,4,4,0,32,2,Master's,2,6759,3,0,8,45,1098,27102,Yes
+235,56,Female,Married,Sales,Analyst,135299,32,15,2,2,Yes,3,6,4,5,0,32,2,Master's,3,8112,4,10,0,91,1319,8918,No
+236,46,Male,Single,Finance,Analyst,107963,10,5,2,1,No,7,2,2,4,2,38,4,Master's,3,19937,4,7,3,23,1961,5436,No
+237,50,Female,Divorced,HR,Clerk,142086,39,19,4,2,No,24,2,2,4,1,28,3,PhD,1,7904,3,9,0,67,214,23432,No
+238,39,Male,Divorced,Finance,Analyst,50566,15,19,1,2,Yes,22,0,2,5,2,10,1,High School,2,16258,3,13,18,47,1540,26873,No
+239,39,Female,Divorced,Sales,Analyst,97766,7,10,4,3,Yes,45,3,4,5,2,22,1,Bachelor's,2,4112,2,13,9,98,1475,6872,Yes
+240,23,Female,Divorced,Finance,Executive,36511,29,12,1,2,No,23,1,4,4,0,17,1,High School,1,5777,3,6,14,89,1075,2360,Yes
+241,56,Male,Married,Operations,Manager,144816,3,4,1,4,No,30,9,2,3,0,22,1,Bachelor's,3,18587,1,6,19,91,1198,13909,No
+242,37,Female,Married,Operations,Clerk,137765,19,18,3,3,No,18,7,3,5,1,19,3,Bachelor's,3,13025,4,10,3,10,1785,6599,No
+243,57,Male,Married,Finance,Clerk,148360,10,16,2,2,No,32,2,1,1,1,17,2,Bachelor's,1,4314,2,5,19,74,135,12168,Yes
+244,54,Male,Divorced,HR,Clerk,56177,28,8,2,1,No,7,6,1,2,1,24,2,Master's,1,16562,3,11,13,10,341,8731,Yes
+245,25,Female,Divorced,HR,Executive,34765,29,4,2,1,Yes,33,6,1,3,1,36,1,Bachelor's,4,14304,4,3,4,94,1786,4077,Yes
+246,54,Male,Single,HR,Analyst,50354,15,12,1,3,Yes,5,8,4,5,2,32,1,High School,3,10015,1,10,14,69,162,15750,No
+247,35,Male,Single,Finance,Manager,53929,35,2,2,3,Yes,49,5,4,5,1,36,1,Bachelor's,4,15117,1,7,14,34,765,29987,Yes
+248,42,Female,Divorced,HR,Engineer,58820,6,4,3,2,Yes,28,0,1,3,2,28,4,High School,2,8710,2,1,15,19,608,20557,Yes
+249,41,Male,Divorced,Sales,Analyst,141576,12,5,1,4,No,8,7,1,2,0,14,4,Bachelor's,4,15588,1,6,15,59,287,6691,No
+250,29,Male,Divorced,Operations,Executive,59523,38,3,1,2,Yes,15,0,3,4,1,36,2,Bachelor's,1,18436,4,2,3,21,834,28165,No
+251,28,Male,Divorced,Sales,Analyst,101088,13,9,1,1,Yes,4,2,4,1,0,6,2,Master's,1,18196,3,13,8,41,192,19773,No
+252,24,Female,Single,HR,Analyst,96163,29,18,1,4,Yes,34,4,4,5,0,9,1,High School,1,19901,1,2,0,42,104,26346,Yes
+253,38,Male,Divorced,Sales,Executive,107525,19,11,3,4,No,5,7,1,2,2,21,4,Bachelor's,1,5506,3,13,4,81,1561,24355,Yes
+254,54,Female,Single,HR,Clerk,43780,3,3,2,4,Yes,33,8,3,1,1,12,3,Bachelor's,4,15072,4,6,8,35,1289,5514,Yes
+255,33,Female,Divorced,Finance,Clerk,36589,8,2,3,2,No,5,6,3,3,2,30,4,High School,4,19136,4,11,19,51,1569,26838,Yes
+256,43,Male,Divorced,Sales,Manager,64812,8,9,2,1,Yes,38,8,1,5,0,31,2,Bachelor's,4,17343,3,2,4,59,124,29559,No
+257,43,Male,Divorced,Finance,Manager,123664,20,14,3,3,No,34,2,1,4,1,4,4,PhD,1,8479,4,14,3,70,607,4919,Yes
+258,51,Male,Single,Finance,Clerk,75939,4,4,4,2,Yes,26,4,4,3,0,31,2,Master's,1,13434,2,14,15,50,197,28439,No
+259,59,Female,Single,IT,Engineer,81493,21,9,4,3,No,1,9,1,5,0,27,1,High School,3,6090,1,4,1,66,1391,18385,Yes
+260,59,Male,Married,HR,Analyst,134188,3,13,4,4,Yes,4,7,2,2,1,25,3,Master's,3,9497,2,7,15,11,761,20317,Yes
+261,29,Male,Divorced,Operations,Engineer,123326,8,18,4,4,No,39,0,3,1,1,5,1,PhD,1,17691,2,13,17,79,1516,2393,Yes
+262,48,Male,Married,HR,Analyst,70953,23,15,1,2,No,26,7,1,1,1,6,1,PhD,3,9993,2,12,1,40,1887,26881,No
+263,48,Male,Married,Operations,Clerk,95785,16,10,1,1,Yes,33,6,2,5,2,5,3,PhD,2,3973,3,3,15,32,1719,15457,Yes
+264,55,Male,Single,HR,Manager,49309,13,16,3,4,No,33,0,3,3,2,27,3,High School,2,11257,3,6,0,85,1408,2529,No
+265,42,Female,Single,Finance,Manager,84195,3,12,3,3,No,8,9,2,4,0,8,3,PhD,1,9092,4,6,15,63,783,23007,No
+266,51,Female,Married,Sales,Engineer,145662,9,5,4,3,Yes,20,9,2,2,1,9,2,High School,4,5906,3,1,2,37,1856,29955,No
+267,54,Male,Divorced,Sales,Manager,55901,14,2,2,2,Yes,16,5,1,5,0,15,1,High School,2,3570,4,13,14,88,1232,27540,No
+268,49,Male,Single,IT,Clerk,53576,13,10,4,3,No,21,0,3,2,0,36,2,Bachelor's,2,15084,3,7,10,28,126,14211,Yes
+269,54,Male,Divorced,Operations,Engineer,61508,7,1,3,1,Yes,45,1,2,1,0,7,3,High School,4,3307,4,9,9,85,1881,27246,Yes
+270,26,Male,Divorced,Operations,Analyst,104711,15,7,4,4,Yes,26,4,4,4,0,32,2,PhD,3,6742,1,11,16,57,154,22452,No
+271,40,Female,Married,Operations,Manager,55464,7,17,3,3,Yes,23,1,3,2,0,8,3,High School,4,11974,4,9,3,11,1256,25891,No
+272,25,Male,Married,Finance,Executive,90281,38,16,4,3,No,18,9,4,5,1,15,4,High School,3,3765,1,14,16,20,1175,8495,Yes
+273,56,Female,Married,Operations,Manager,46260,34,3,2,4,No,31,0,1,4,2,37,3,Master's,3,11964,4,13,3,53,1616,8953,Yes
+274,38,Female,Married,Sales,Analyst,65440,22,14,4,2,No,42,5,4,3,1,19,1,PhD,4,10735,3,8,18,68,1888,23437,No
+275,49,Male,Single,Finance,Engineer,125082,24,10,2,3,No,12,7,3,5,1,39,1,High School,3,19202,3,5,0,68,880,28828,Yes
+276,51,Female,Single,HR,Analyst,135583,37,7,2,2,No,1,7,2,2,1,6,1,Bachelor's,2,17431,1,13,13,47,397,21056,Yes
+277,50,Female,Married,Operations,Executive,86683,1,17,3,2,No,42,7,2,4,2,19,2,High School,1,14377,2,4,10,34,1522,3713,Yes
+278,27,Female,Single,Operations,Clerk,71430,10,6,2,3,No,9,5,3,5,2,28,1,High School,3,16274,2,0,6,30,1714,22428,No
+279,56,Female,Married,HR,Manager,31987,16,4,1,1,Yes,3,2,2,4,2,17,3,Master's,2,17297,4,0,16,51,1141,2635,No
+280,58,Male,Divorced,Operations,Engineer,144778,8,17,1,2,No,26,0,4,4,1,19,4,PhD,4,11036,3,8,3,45,917,23518,No
+281,45,Male,Divorced,HR,Clerk,55105,25,9,1,3,No,9,1,2,4,2,31,1,PhD,3,10596,2,13,9,18,1893,17193,No
+282,50,Female,Divorced,Finance,Analyst,108484,12,4,3,2,Yes,42,4,2,2,0,11,2,Bachelor's,2,19923,3,3,16,21,954,25003,No
+283,52,Male,Married,Sales,Engineer,148747,25,7,1,4,Yes,16,9,4,5,2,15,4,Bachelor's,3,5049,3,0,3,19,1742,16633,Yes
+284,56,Male,Divorced,HR,Clerk,43026,17,2,3,1,Yes,24,4,4,1,1,10,1,Bachelor's,4,7675,3,10,18,68,658,11309,Yes
+285,54,Male,Single,IT,Engineer,98309,26,17,3,1,No,14,9,4,1,1,23,1,High School,1,4663,4,9,17,14,1369,28730,Yes
+286,42,Male,Divorced,HR,Executive,75927,14,8,1,4,Yes,3,0,1,2,0,3,4,High School,3,9476,1,11,16,42,602,17778,No
+287,53,Male,Divorced,Operations,Executive,105414,36,15,2,4,No,34,0,4,2,2,3,1,Bachelor's,1,15028,4,2,5,78,1212,9445,Yes
+288,44,Female,Divorced,Finance,Manager,87535,23,15,4,2,No,33,8,4,4,2,18,2,PhD,3,18077,2,5,6,89,302,14415,No
+289,54,Male,Single,Finance,Manager,72946,6,8,3,4,No,24,1,1,5,0,25,3,PhD,3,10143,1,13,5,72,1045,16281,No
+290,24,Male,Married,HR,Executive,86561,5,16,1,1,Yes,9,6,2,5,1,20,3,Bachelor's,4,4910,2,10,11,38,339,8602,No
+291,39,Male,Single,Sales,Engineer,40377,25,19,3,4,Yes,13,9,4,3,1,29,4,Master's,3,3732,1,12,8,27,589,2037,No
+292,46,Male,Married,IT,Executive,83592,18,11,2,3,No,2,3,3,3,2,22,3,PhD,2,7609,1,12,17,15,1903,11824,No
+293,52,Female,Married,Finance,Manager,37347,13,2,2,3,No,7,6,4,1,2,15,1,PhD,2,14134,4,10,1,62,1136,5775,No
+294,24,Female,Divorced,Operations,Executive,63776,14,17,1,2,No,48,7,4,3,2,39,1,Bachelor's,1,7456,3,7,16,91,748,28630,Yes
+295,45,Female,Married,Operations,Executive,33783,28,16,3,1,Yes,21,4,1,3,2,10,2,PhD,1,17512,3,12,0,41,1438,22469,No
+296,53,Female,Single,Sales,Engineer,85798,18,15,4,3,No,19,0,3,1,2,21,3,High School,2,6335,1,9,8,51,784,29979,Yes
+297,43,Male,Single,Finance,Clerk,34298,28,13,4,4,Yes,25,3,2,1,1,29,4,High School,1,18545,4,1,5,56,1865,27094,No
+298,44,Female,Married,HR,Manager,100204,27,15,3,3,No,47,9,2,3,1,32,1,PhD,1,15814,2,7,1,40,1321,28817,Yes
+299,23,Male,Divorced,Operations,Engineer,116207,32,4,3,3,Yes,22,2,3,5,1,10,4,High School,2,10056,2,13,5,71,342,12555,No
+300,48,Male,Divorced,Sales,Executive,130356,9,16,3,2,No,11,9,4,3,1,13,1,Master's,2,5753,3,12,8,65,606,7120,No
+301,23,Male,Single,Finance,Executive,85161,32,12,1,4,Yes,33,4,1,4,0,23,1,PhD,2,4372,3,0,2,20,1166,16678,Yes
+302,47,Male,Divorced,Finance,Clerk,90652,20,4,2,4,Yes,32,9,3,4,1,23,2,Bachelor's,4,17234,2,10,15,35,1453,25128,No
+303,38,Male,Married,Finance,Manager,64484,28,3,4,4,Yes,21,9,3,4,0,31,3,High School,4,12636,2,1,14,36,1914,19425,No
+304,54,Female,Married,Finance,Manager,128614,33,17,1,2,Yes,39,5,2,2,1,4,2,Master's,2,6376,4,7,11,92,1714,6715,Yes
+305,30,Female,Single,Finance,Analyst,142695,4,18,3,4,Yes,20,1,1,4,2,3,3,Master's,3,11481,2,6,7,66,1552,3394,Yes
+306,50,Female,Married,Operations,Manager,50922,34,18,3,4,Yes,8,6,3,5,2,21,4,High School,2,13257,4,4,5,36,1914,4869,No
+307,47,Female,Single,Sales,Clerk,64028,3,17,2,3,No,42,2,1,2,2,2,3,Master's,4,19447,3,14,2,68,1867,5676,Yes
+308,56,Male,Married,Finance,Analyst,141461,26,12,3,3,No,37,0,4,2,0,4,4,PhD,1,19713,2,12,3,71,712,5721,Yes
+309,46,Female,Single,IT,Analyst,50316,8,4,1,4,No,9,9,2,4,1,1,1,Master's,3,7858,3,9,9,29,261,7690,No
+310,45,Male,Divorced,IT,Executive,106996,6,12,1,1,No,25,2,4,3,1,15,4,High School,3,19524,1,1,13,12,755,7818,Yes
+311,34,Female,Married,Sales,Executive,46968,16,15,2,1,Yes,25,8,1,1,0,33,4,Master's,1,16619,1,8,14,25,1058,2234,No
+312,28,Male,Married,HR,Manager,60266,24,16,1,4,No,33,9,4,3,0,6,1,High School,3,7539,1,4,6,53,720,5140,Yes
+313,57,Male,Single,HR,Analyst,125745,39,5,4,1,Yes,2,5,2,3,0,7,4,High School,1,8594,2,7,6,88,1558,10638,No
+314,41,Female,Single,HR,Executive,54000,30,15,1,2,Yes,19,5,1,2,0,19,4,Master's,4,6903,3,12,7,39,1356,14897,No
+315,22,Male,Married,IT,Clerk,44011,13,17,1,3,Yes,46,3,3,2,0,1,1,High School,3,8364,2,3,9,49,210,26583,No
+316,29,Male,Single,HR,Executive,32866,5,18,1,2,No,20,7,4,2,2,39,1,High School,3,3449,3,13,18,74,1033,19383,Yes
+317,37,Female,Married,Operations,Executive,142669,25,5,4,3,Yes,42,4,2,5,1,19,1,Bachelor's,1,7806,4,8,18,38,1355,19718,No
+318,35,Male,Divorced,Finance,Analyst,35898,20,13,3,1,No,41,6,3,5,0,26,3,PhD,1,3869,2,9,1,39,849,10325,Yes
+319,33,Female,Single,IT,Analyst,48395,18,19,1,1,No,42,8,2,1,2,12,1,High School,4,9079,1,6,14,41,808,12624,No
+320,44,Female,Married,Sales,Engineer,69019,18,13,2,4,No,29,4,1,2,0,22,1,PhD,1,10307,4,1,0,19,372,26631,No
+321,36,Female,Divorced,Sales,Clerk,133243,2,18,4,1,No,6,4,1,4,2,13,4,Bachelor's,1,6659,3,2,9,60,1721,23472,No
+322,49,Male,Divorced,Finance,Analyst,34006,10,14,2,1,No,17,3,4,2,0,28,2,Bachelor's,4,6602,2,13,5,17,906,23863,Yes
+323,55,Male,Married,IT,Manager,64393,12,4,1,4,Yes,25,5,2,5,1,14,2,Bachelor's,2,11584,3,1,12,60,140,8090,No
+324,23,Male,Single,HR,Clerk,40956,13,4,2,4,Yes,38,1,2,2,0,22,3,Bachelor's,2,17385,3,4,9,45,659,13377,No
+325,53,Female,Married,HR,Clerk,80042,11,19,1,3,No,4,2,2,5,0,30,3,PhD,1,13983,2,1,11,64,565,19495,Yes
+326,44,Male,Divorced,Operations,Analyst,126199,19,13,4,1,Yes,30,0,1,2,1,20,2,Master's,4,8131,2,4,5,44,1200,29755,No
+327,43,Female,Married,Operations,Clerk,36078,35,12,2,3,No,20,1,4,4,1,27,2,Master's,2,4358,3,12,5,45,1813,28099,No
+328,46,Female,Single,HR,Analyst,59631,39,7,2,3,Yes,3,1,2,1,0,38,1,PhD,4,19771,3,8,0,65,589,16870,Yes
+329,43,Male,Divorced,Sales,Executive,125676,26,12,1,2,Yes,23,7,2,4,1,34,4,High School,1,16603,4,1,11,45,1892,26719,Yes
+330,43,Female,Married,Sales,Engineer,92901,14,4,1,1,Yes,18,7,3,5,1,39,1,PhD,1,19246,1,8,9,98,216,21300,Yes
+331,27,Male,Single,Operations,Executive,137227,24,2,3,1,Yes,26,1,2,3,2,37,3,High School,4,11441,3,6,13,93,533,25183,No
+332,36,Male,Divorced,Finance,Analyst,99497,1,2,1,2,Yes,36,5,4,4,1,1,2,High School,3,13219,1,6,14,70,1142,4103,Yes
+333,58,Male,Single,HR,Analyst,124813,22,5,1,3,Yes,8,4,3,2,1,15,3,Master's,1,12720,4,13,3,71,1093,27195,No
+334,54,Male,Divorced,Operations,Executive,147192,23,10,3,1,Yes,17,2,3,1,0,32,1,Bachelor's,1,12552,1,4,0,90,1694,28462,No
+335,29,Male,Married,Operations,Manager,71574,19,10,1,3,Yes,31,4,3,2,0,8,3,Master's,1,14301,1,7,7,96,295,7125,Yes
+336,26,Female,Single,HR,Manager,148494,18,9,1,2,Yes,37,4,1,2,2,33,3,Master's,1,12515,4,6,2,34,718,8590,Yes
+337,25,Female,Divorced,HR,Manager,61417,12,13,3,4,Yes,45,4,3,4,0,18,4,PhD,4,3891,3,5,13,73,1574,12212,No
+338,27,Female,Single,Sales,Analyst,118020,28,7,4,3,Yes,33,2,2,1,1,29,3,PhD,4,18085,1,1,16,69,524,11600,Yes
+339,53,Male,Single,Finance,Clerk,113639,28,5,4,1,Yes,27,2,1,3,1,32,1,High School,4,7192,3,5,1,66,1517,4921,Yes
+340,51,Male,Married,Finance,Analyst,95006,33,10,1,4,Yes,45,3,1,2,1,33,4,PhD,4,19128,3,13,14,79,1407,6734,No
+341,56,Male,Single,HR,Clerk,124881,19,10,1,3,No,4,6,1,1,0,5,3,High School,3,13362,2,1,5,61,133,21757,Yes
+342,37,Female,Divorced,IT,Executive,141862,28,6,3,3,Yes,22,1,1,3,1,18,1,High School,4,19708,3,0,4,65,394,25138,Yes
+343,34,Male,Divorced,Operations,Engineer,69454,37,19,3,4,Yes,26,9,1,2,1,10,2,Bachelor's,4,12177,3,8,13,72,1106,18037,Yes
+344,51,Female,Divorced,Operations,Clerk,31587,26,8,4,4,Yes,32,3,1,1,2,36,4,Bachelor's,1,9644,1,12,18,77,1374,2836,No
+345,40,Female,Divorced,HR,Manager,138107,35,1,2,4,Yes,24,3,1,4,2,33,3,Master's,3,7782,3,4,8,29,1761,14094,Yes
+346,38,Male,Married,IT,Analyst,145584,34,17,1,1,Yes,46,0,3,2,2,23,3,Bachelor's,1,13052,3,9,7,63,438,28161,Yes
+347,40,Male,Single,Sales,Executive,84710,35,7,2,1,Yes,35,9,4,2,0,5,4,High School,3,6898,2,9,2,10,717,11028,No
+348,49,Female,Married,HR,Manager,116567,16,14,2,3,No,37,7,2,1,1,34,1,PhD,2,7154,2,3,17,99,1563,12749,No
+349,47,Male,Single,HR,Executive,121748,38,17,3,3,No,32,0,2,2,1,24,3,Bachelor's,3,5778,1,11,7,19,279,17432,No
+350,58,Female,Single,Operations,Engineer,105886,13,9,1,2,No,7,7,3,3,1,17,1,Bachelor's,3,16809,1,10,15,32,721,13051,No
+351,47,Male,Single,HR,Analyst,48816,23,17,1,1,Yes,33,6,3,2,2,31,4,Bachelor's,1,9409,2,7,14,60,1351,25091,Yes
+352,44,Male,Married,HR,Analyst,115824,22,5,3,3,Yes,31,8,1,5,1,7,3,Bachelor's,3,15523,2,14,14,33,1756,17586,No
+353,30,Female,Single,HR,Engineer,59432,16,8,2,4,Yes,12,7,4,3,1,17,2,High School,3,7313,4,4,15,22,718,7312,No
+354,33,Male,Married,Operations,Analyst,139758,28,6,3,4,No,11,4,1,1,1,28,2,High School,1,10608,3,13,0,38,742,27973,Yes
+355,22,Female,Divorced,Sales,Clerk,78617,35,11,4,1,Yes,24,7,3,3,1,38,2,Master's,2,16717,1,6,9,67,122,5822,No
+356,22,Male,Divorced,Sales,Executive,102373,8,19,1,4,Yes,8,9,1,5,1,22,4,PhD,2,14864,1,2,18,52,1780,24537,No
+357,55,Female,Single,HR,Manager,64217,22,4,4,2,No,32,2,2,5,0,15,3,Master's,2,14214,3,14,4,19,1450,13622,Yes
+358,53,Female,Married,Operations,Engineer,50884,21,18,3,3,No,38,9,2,2,1,37,4,Master's,3,15876,3,7,17,40,1277,18099,No
+359,46,Male,Divorced,Sales,Clerk,35454,26,1,1,3,Yes,22,6,1,2,0,15,3,Bachelor's,1,3916,1,7,2,83,718,19188,No
+360,22,Female,Married,Sales,Manager,104960,21,13,4,3,Yes,34,3,4,4,1,25,2,PhD,2,12325,2,2,3,97,1269,3075,Yes
+361,37,Male,Married,Sales,Manager,132421,25,14,4,1,Yes,19,4,1,3,0,21,2,Bachelor's,2,7007,2,8,3,23,351,16063,Yes
+362,26,Male,Single,Operations,Engineer,137173,1,1,2,4,Yes,20,8,1,4,1,38,1,High School,2,6485,3,13,10,43,401,29216,Yes
+363,43,Male,Divorced,Operations,Clerk,73618,6,11,1,2,No,14,6,4,5,1,2,4,Master's,2,13961,1,7,8,26,1193,29660,Yes
+364,50,Female,Single,HR,Manager,113948,23,17,4,1,Yes,33,3,4,2,1,27,4,PhD,1,14908,3,0,0,30,1666,18383,Yes
+365,24,Female,Single,Finance,Manager,92671,23,4,4,3,Yes,10,5,4,2,1,32,1,High School,2,6354,2,7,15,76,1216,11605,Yes
+366,33,Male,Divorced,Sales,Clerk,77111,23,12,2,2,No,16,9,2,2,2,21,2,Master's,3,16509,4,11,8,67,1772,6452,Yes
+367,47,Male,Divorced,Finance,Analyst,69613,32,10,4,3,Yes,4,6,1,1,1,4,2,PhD,3,10101,4,10,10,88,262,20047,Yes
+368,37,Female,Married,Operations,Manager,115678,30,6,4,3,Yes,27,9,3,5,0,19,4,Master's,1,7743,2,14,5,17,1204,29551,Yes
+369,58,Male,Divorced,Operations,Executive,132928,13,1,4,1,No,28,8,4,2,2,2,3,PhD,4,11951,3,3,16,47,1951,14298,Yes
+370,43,Male,Married,Operations,Clerk,89993,18,7,2,3,No,43,3,4,5,2,26,2,Master's,2,10014,4,5,11,35,1711,14368,Yes
+371,50,Female,Married,Finance,Manager,38848,23,16,4,2,Yes,16,9,1,2,1,34,1,Bachelor's,2,6412,2,13,7,73,1186,9428,Yes
+372,35,Male,Married,Operations,Engineer,144853,15,14,4,3,No,33,2,3,3,0,14,1,Master's,3,12140,1,12,15,39,711,20437,No
+373,49,Female,Divorced,HR,Executive,108672,33,6,1,4,No,48,7,1,5,0,15,1,Master's,1,13271,3,9,4,18,1559,17817,Yes
+374,26,Male,Single,Operations,Manager,149279,21,5,1,3,Yes,19,0,1,4,2,20,4,PhD,4,11219,3,8,0,41,1171,4420,Yes
+375,51,Female,Married,IT,Executive,96125,39,18,2,1,No,21,8,4,1,0,34,4,PhD,3,10163,4,4,16,20,544,20912,Yes
+376,26,Male,Single,Finance,Executive,116444,23,15,3,2,Yes,22,0,4,4,1,36,4,Bachelor's,4,5470,3,6,7,95,173,6317,Yes
+377,33,Male,Single,IT,Analyst,147509,27,6,1,1,Yes,9,1,2,5,1,19,4,PhD,1,13730,4,12,9,43,925,28516,Yes
+378,37,Female,Divorced,Operations,Executive,91602,18,19,2,4,Yes,9,7,3,2,1,9,1,Master's,1,19543,4,14,17,27,1827,26361,No
+379,47,Male,Single,HR,Analyst,102045,24,1,4,3,Yes,9,8,3,5,1,7,1,PhD,1,7113,2,0,14,28,641,29728,No
+380,47,Female,Single,Sales,Clerk,135997,7,1,4,1,No,27,6,4,1,1,30,4,PhD,3,16414,4,8,19,63,256,28522,No
+381,42,Male,Divorced,Operations,Analyst,72222,20,13,2,1,Yes,17,2,4,5,2,13,4,PhD,1,10749,1,13,12,91,1610,27090,No
+382,57,Female,Married,HR,Engineer,79223,27,3,4,1,Yes,44,6,4,2,1,27,1,Bachelor's,3,14914,3,5,9,46,1389,25611,Yes
+383,54,Female,Single,Finance,Manager,140012,6,10,4,1,Yes,45,5,3,4,1,35,4,Bachelor's,3,18007,4,10,8,91,355,10412,No
+384,51,Female,Divorced,IT,Clerk,141246,27,3,3,4,Yes,8,1,2,3,2,13,4,High School,2,14923,3,3,12,21,1162,18321,No
+385,58,Female,Single,IT,Clerk,95333,9,9,4,4,No,16,2,3,4,2,15,4,Bachelor's,3,16042,4,5,2,13,1178,2227,Yes
+386,44,Male,Single,IT,Engineer,82732,31,8,1,3,No,18,9,4,2,2,9,4,Bachelor's,3,16181,2,4,2,52,1151,20721,No
+387,31,Male,Married,Finance,Analyst,79420,21,3,4,3,No,33,9,4,2,0,23,2,Bachelor's,2,15130,1,2,0,36,1036,13456,No
+388,26,Female,Single,HR,Manager,105504,26,13,2,2,Yes,1,4,2,1,0,36,4,Master's,4,6405,3,6,1,60,217,2955,Yes
+389,57,Female,Divorced,Finance,Analyst,32462,13,6,3,4,No,12,9,1,5,1,3,1,High School,2,13862,2,2,10,14,469,19881,Yes
+390,55,Female,Single,IT,Executive,39460,23,13,4,1,No,6,3,1,5,1,34,1,Master's,2,18249,3,12,13,15,308,11472,No
+391,52,Male,Married,Operations,Analyst,129319,20,12,2,1,Yes,41,1,3,4,1,19,1,Bachelor's,1,15939,2,13,9,86,686,3978,Yes
+392,31,Male,Married,Sales,Clerk,39275,37,13,1,2,No,5,3,1,3,0,28,1,Bachelor's,1,16967,1,14,6,96,1700,19913,No
+393,40,Male,Divorced,Finance,Manager,124213,28,2,4,1,Yes,16,7,1,3,1,23,4,High School,2,8848,4,12,0,65,948,14675,Yes
+394,53,Male,Married,Finance,Analyst,43269,17,16,3,2,No,18,4,3,1,1,7,2,High School,1,9817,2,1,6,98,1991,21046,No
+395,22,Female,Single,HR,Manager,95942,28,6,4,3,No,49,4,4,2,0,12,3,PhD,2,9143,3,13,14,77,1735,28989,No
+396,26,Female,Married,HR,Manager,102920,2,19,2,4,No,18,9,1,1,2,14,3,Bachelor's,1,17509,3,3,10,53,1681,29281,No
+397,25,Female,Divorced,Finance,Executive,52553,25,13,3,2,No,1,2,4,5,0,15,3,Bachelor's,3,13058,2,6,5,24,415,24817,Yes
+398,37,Male,Married,IT,Executive,54366,6,17,4,1,Yes,19,7,3,2,1,3,3,Master's,1,11396,1,4,6,99,1516,18128,Yes
+399,45,Male,Married,Sales,Clerk,74036,11,9,1,2,Yes,8,5,4,1,0,15,1,PhD,1,14771,1,13,6,51,543,17668,No
+400,37,Male,Married,HR,Engineer,47369,38,17,3,3,No,3,1,4,4,2,24,4,Bachelor's,3,8272,4,8,0,20,1791,9445,Yes
+401,23,Female,Divorced,IT,Manager,41795,6,2,1,1,Yes,25,1,3,5,2,8,4,Master's,2,14366,4,9,9,82,1875,6284,Yes
+402,49,Female,Married,Operations,Engineer,100021,11,19,2,3,No,5,8,4,3,2,5,3,High School,1,18424,3,14,14,20,1988,27493,No
+403,53,Male,Married,HR,Clerk,137205,14,19,4,3,No,40,6,1,1,2,4,3,Master's,1,16428,3,6,7,75,1382,19585,Yes
+404,48,Female,Single,IT,Manager,98154,2,7,1,2,No,19,9,1,5,2,14,2,Bachelor's,3,19024,4,11,18,36,1771,9131,Yes
+405,41,Male,Divorced,IT,Manager,60143,3,10,2,3,No,18,8,1,5,2,16,2,Master's,3,6747,4,13,2,67,1321,12614,No
+406,45,Male,Married,Sales,Engineer,59425,35,10,4,1,No,31,5,1,3,1,20,2,Master's,3,12297,4,8,14,99,1822,28197,No
+407,33,Female,Divorced,Sales,Analyst,118209,33,9,2,3,No,33,4,4,3,1,24,1,PhD,4,4607,2,13,3,81,727,2759,Yes
+408,56,Male,Married,Operations,Executive,105139,24,17,1,3,Yes,47,0,1,3,0,6,4,PhD,3,19450,4,8,5,30,544,23957,Yes
+409,54,Female,Married,IT,Analyst,135232,19,15,2,2,Yes,18,5,4,1,1,31,1,High School,2,18535,2,11,9,30,669,23545,Yes
+410,54,Male,Married,IT,Engineer,35368,18,2,3,3,No,39,5,2,3,2,6,1,PhD,1,10645,2,1,17,81,681,22673,No
+411,58,Female,Single,Sales,Executive,34621,24,4,4,4,Yes,16,2,4,4,1,35,4,Master's,1,12470,4,14,15,10,704,23830,Yes
+412,33,Female,Single,HR,Analyst,88829,35,19,2,2,No,16,2,1,5,0,15,2,PhD,4,7158,1,0,17,67,840,15684,Yes
+413,24,Female,Single,HR,Executive,90294,1,17,1,2,Yes,47,2,2,3,2,29,4,Bachelor's,1,12005,1,10,5,22,1007,11680,Yes
+414,22,Male,Divorced,Finance,Manager,44719,36,5,4,1,Yes,38,2,3,5,1,3,3,Master's,1,19786,3,3,18,82,748,22642,Yes
+415,54,Male,Divorced,Sales,Analyst,59227,25,7,3,1,Yes,41,6,4,2,1,11,2,Master's,2,10925,4,3,16,15,1740,6371,Yes
+416,31,Female,Single,Finance,Executive,139430,34,18,4,1,No,7,9,1,2,0,3,4,Master's,1,16640,3,12,17,96,404,14651,Yes
+417,50,Female,Divorced,Sales,Executive,37566,25,7,3,1,Yes,14,1,1,3,2,28,1,Bachelor's,2,7166,4,1,12,67,438,3665,No
+418,34,Male,Married,Operations,Executive,42306,16,17,4,4,No,43,9,1,5,0,10,4,Master's,4,18076,3,2,6,26,628,8918,No
+419,33,Male,Married,IT,Analyst,83822,34,7,2,2,No,48,9,3,2,2,33,2,PhD,2,12278,2,2,19,82,153,25007,No
+420,52,Male,Married,Operations,Clerk,54042,29,4,2,3,No,25,1,2,3,2,16,3,Bachelor's,3,3771,4,4,11,21,1235,12194,Yes
+421,23,Female,Single,Sales,Analyst,45086,19,8,1,1,Yes,32,2,2,5,1,10,1,Master's,3,14440,1,0,1,95,783,27035,Yes
+422,56,Male,Divorced,IT,Engineer,47387,23,13,3,1,Yes,38,9,1,3,0,33,3,PhD,4,11167,4,8,11,61,518,25816,No
+423,44,Male,Single,HR,Analyst,57042,19,4,1,1,Yes,22,6,4,5,0,36,3,PhD,1,4556,3,7,11,85,404,25066,No
+424,38,Female,Divorced,HR,Executive,119424,25,6,2,3,No,16,2,1,2,0,3,1,High School,2,14150,3,7,3,79,1561,13213,No
+425,47,Male,Married,Finance,Manager,81618,16,5,3,1,No,29,6,1,3,2,5,4,PhD,3,4151,3,2,3,82,1779,17745,No
+426,29,Male,Single,Sales,Analyst,122050,9,12,1,3,Yes,16,8,4,2,0,12,4,PhD,2,15534,3,1,17,61,184,24612,No
+427,50,Male,Divorced,Sales,Analyst,48323,1,4,1,2,No,12,9,1,3,2,13,3,High School,3,11039,3,0,15,46,1647,24211,Yes
+428,47,Female,Divorced,HR,Executive,48019,19,9,1,2,Yes,17,3,3,1,0,24,4,High School,2,17659,3,11,13,12,351,23819,Yes
+429,31,Female,Married,Operations,Manager,105426,33,4,1,2,Yes,37,6,1,2,0,32,2,Bachelor's,1,9303,1,5,16,17,1851,28866,Yes
+430,47,Female,Single,IT,Manager,70863,34,19,1,4,Yes,27,8,3,2,1,16,3,PhD,4,5977,3,12,16,19,225,9636,Yes
+431,55,Female,Single,Operations,Engineer,141023,16,14,3,3,Yes,25,7,1,4,0,32,3,Bachelor's,1,15541,1,9,2,56,709,19749,Yes
+432,28,Female,Single,Operations,Analyst,40283,18,5,1,1,No,13,7,2,2,1,37,3,Bachelor's,2,3422,4,0,5,50,1528,9344,No
+433,25,Female,Married,HR,Manager,48279,34,18,3,1,Yes,8,8,4,5,1,36,2,Master's,3,14985,2,13,12,73,403,5201,No
+434,32,Female,Single,HR,Manager,76999,25,10,1,1,Yes,5,4,2,3,2,21,3,Bachelor's,3,19474,1,10,8,51,1151,6752,Yes
+435,50,Male,Married,HR,Clerk,92780,6,19,2,1,Yes,12,4,1,1,0,12,4,Bachelor's,4,6372,4,4,8,52,947,11575,No
+436,57,Male,Married,Finance,Clerk,52908,21,12,2,4,Yes,41,2,1,5,0,21,4,Bachelor's,1,19083,2,8,7,18,1389,12327,Yes
+437,46,Female,Married,Operations,Manager,91584,6,18,1,1,Yes,3,4,3,5,0,21,4,Bachelor's,1,4942,1,10,16,23,1175,17891,Yes
+438,42,Male,Divorced,Sales,Engineer,143002,32,17,4,4,Yes,35,7,1,5,1,6,4,High School,1,12950,1,8,15,13,754,15029,No
+439,57,Male,Single,IT,Manager,80225,39,11,2,3,Yes,33,4,1,5,0,9,3,PhD,3,19282,4,12,15,11,743,8091,Yes
+440,31,Female,Single,Finance,Executive,67952,31,3,3,2,No,22,3,1,1,2,1,2,Master's,4,19481,3,11,18,94,957,29608,Yes
+441,58,Male,Married,Sales,Analyst,130706,10,17,1,1,No,44,7,2,4,2,12,1,High School,3,4479,1,14,15,10,610,24998,Yes
+442,30,Male,Married,Operations,Engineer,67663,30,1,3,2,No,9,6,3,2,0,14,4,Master's,1,7626,1,3,13,84,306,19905,No
+443,45,Male,Single,HR,Executive,139708,18,15,4,3,No,41,5,2,5,1,6,1,Master's,2,13777,4,6,19,74,673,17866,No
+444,56,Male,Married,Operations,Engineer,91381,24,9,1,3,Yes,18,4,3,2,2,1,1,High School,3,8147,3,13,13,55,974,9521,Yes
+445,56,Male,Single,IT,Executive,77929,9,15,2,1,No,29,4,2,2,2,22,3,Bachelor's,4,8443,2,10,13,68,610,24943,Yes
+446,57,Female,Divorced,Finance,Analyst,39343,31,3,3,3,No,39,9,1,5,1,34,4,High School,1,3079,3,6,13,84,1767,17410,No
+447,39,Female,Married,Finance,Analyst,106173,15,19,2,2,No,27,1,2,4,2,11,4,Master's,2,8577,3,3,11,16,1676,20007,No
+448,53,Female,Single,IT,Clerk,130260,4,13,2,1,Yes,36,3,2,2,1,3,4,Master's,3,15901,4,4,5,75,300,27257,No
+449,45,Male,Married,Sales,Executive,69791,9,12,1,4,No,45,7,3,3,2,6,1,Bachelor's,2,5223,3,10,19,24,1734,21518,No
+450,44,Female,Single,Sales,Clerk,59134,9,1,3,1,No,17,7,3,2,1,6,4,High School,2,5569,4,8,12,81,922,7820,Yes
+451,53,Male,Single,Finance,Executive,142366,26,17,4,2,Yes,34,0,2,5,2,20,4,PhD,4,12964,2,6,15,56,1407,13453,Yes
+452,58,Male,Married,Finance,Clerk,77101,4,13,2,1,No,46,1,3,1,0,21,2,Master's,3,16768,1,6,8,99,1480,23378,Yes
+453,33,Male,Divorced,HR,Analyst,99443,17,1,1,1,Yes,3,4,3,2,2,2,3,High School,4,19249,1,9,1,49,1170,6696,No
+454,34,Male,Single,Sales,Engineer,129111,16,10,1,2,No,5,8,3,4,2,26,4,Bachelor's,1,5623,4,6,2,51,1119,29995,No
+455,44,Female,Single,IT,Clerk,87530,15,15,4,1,Yes,14,9,4,3,0,31,4,Bachelor's,2,4403,4,14,9,60,236,3867,Yes
+456,46,Female,Single,Sales,Executive,76799,35,7,1,1,No,3,6,3,3,0,26,3,PhD,4,19715,3,8,19,44,229,27775,No
+457,56,Male,Divorced,HR,Executive,34827,5,18,2,2,No,23,9,4,1,0,32,3,Master's,4,10485,3,4,1,50,1318,17723,Yes
+458,51,Female,Divorced,Finance,Analyst,126143,5,16,1,3,No,39,4,4,1,0,10,1,PhD,1,14800,1,5,9,94,1117,21207,No
+459,38,Male,Married,Finance,Executive,92653,20,14,3,2,Yes,30,0,3,2,1,23,1,PhD,3,15798,1,2,7,66,1752,29524,Yes
+460,41,Female,Divorced,HR,Manager,43699,15,18,3,1,No,45,5,2,5,1,6,1,PhD,4,7980,1,0,16,47,1487,13817,Yes
+461,46,Female,Married,IT,Engineer,132828,18,7,2,4,Yes,23,7,3,4,2,23,3,PhD,2,6878,4,10,0,81,531,24490,Yes
+462,43,Male,Married,Finance,Clerk,143497,2,17,3,4,Yes,27,6,1,3,2,28,2,Bachelor's,2,4949,2,11,5,17,1192,2168,Yes
+463,34,Female,Divorced,Operations,Engineer,121419,29,18,4,2,Yes,10,1,2,1,2,30,4,Master's,2,12958,2,1,6,83,1581,26171,No
+464,40,Male,Married,Finance,Analyst,144527,13,12,1,4,Yes,25,4,4,4,1,14,3,PhD,2,11697,4,7,14,72,639,12213,Yes
+465,57,Female,Divorced,Operations,Clerk,146972,4,8,2,1,No,13,3,4,5,2,37,2,Master's,4,18493,3,12,17,96,434,28770,Yes
+466,33,Male,Married,HR,Clerk,35313,10,2,4,1,No,16,8,2,3,2,32,3,Bachelor's,2,13033,2,0,8,13,625,27014,Yes
+467,40,Male,Divorced,HR,Manager,43598,31,7,1,2,No,41,9,2,3,1,34,2,Bachelor's,4,12586,3,9,7,57,657,17223,Yes
+468,33,Female,Divorced,Finance,Analyst,141362,8,4,4,1,Yes,34,0,3,5,2,22,3,High School,3,3256,1,6,9,61,1008,13452,No
+469,30,Female,Married,Sales,Executive,145445,3,18,2,3,No,37,5,4,3,1,31,3,High School,2,4720,1,4,3,47,1139,23293,Yes
+470,28,Male,Single,Operations,Manager,58807,9,6,2,1,Yes,22,2,1,5,1,7,2,Master's,3,16241,3,12,19,96,1579,10027,Yes
+471,49,Female,Married,IT,Manager,100423,30,9,4,2,Yes,17,8,3,3,0,21,2,High School,4,19234,1,5,7,14,609,18291,No
+472,35,Female,Divorced,Finance,Engineer,99390,11,9,1,3,Yes,23,4,2,2,0,16,2,PhD,1,10076,4,7,0,94,308,12641,Yes
+473,52,Male,Single,IT,Engineer,75226,35,14,3,3,No,36,5,4,5,1,20,2,Master's,3,4071,3,3,7,79,1281,23065,Yes
+474,40,Male,Married,Finance,Engineer,89550,37,8,3,4,No,49,8,2,4,1,19,2,Bachelor's,2,4622,3,5,11,90,1460,27439,Yes
+475,37,Female,Married,Sales,Manager,110072,13,19,4,1,Yes,9,8,2,2,0,32,2,Bachelor's,1,5066,3,13,14,98,1862,23521,Yes
+476,26,Male,Married,Sales,Executive,33558,36,3,2,2,No,2,7,2,4,2,15,2,PhD,3,11642,2,10,12,33,1364,26715,No
+477,56,Male,Single,Sales,Clerk,105308,13,18,1,4,No,32,8,3,3,2,5,2,High School,4,3897,3,2,15,95,157,23618,No
+478,33,Male,Divorced,Sales,Engineer,80113,12,5,1,4,Yes,22,3,1,4,2,11,3,Master's,4,11273,3,6,17,86,915,2224,No
+479,46,Female,Married,HR,Executive,82999,37,14,2,1,Yes,43,5,1,2,1,15,2,Master's,4,8781,3,1,0,26,1428,10749,No
+480,42,Female,Married,HR,Analyst,85878,10,4,3,1,No,13,4,4,5,0,29,2,PhD,3,16622,2,11,16,87,1468,8582,No
+481,57,Male,Married,Operations,Engineer,66343,9,7,1,2,Yes,8,4,2,1,2,4,3,High School,4,16284,1,7,15,99,1765,3573,No
+482,44,Female,Married,IT,Clerk,88219,7,12,4,4,Yes,1,3,1,4,0,36,3,Master's,3,13399,2,12,4,92,1852,10577,Yes
+483,37,Male,Married,Finance,Analyst,65186,2,2,3,2,No,17,1,2,1,0,23,1,PhD,2,12883,4,6,19,35,1137,10712,Yes
+484,35,Female,Divorced,Finance,Analyst,66966,23,11,4,4,No,12,5,4,4,1,15,1,Master's,2,12371,3,11,9,12,1482,8763,Yes
+485,52,Male,Divorced,HR,Clerk,63769,39,14,3,4,Yes,4,8,2,4,2,3,2,Bachelor's,3,13707,4,11,5,11,476,14164,Yes
+486,26,Male,Married,Finance,Engineer,149932,39,16,2,4,No,13,0,1,5,0,32,2,Master's,3,11088,2,7,11,11,342,7217,No
+487,56,Female,Single,HR,Manager,135423,21,6,4,1,Yes,31,6,2,3,1,10,1,Master's,1,16140,1,1,9,31,1092,29410,Yes
+488,44,Male,Divorced,Operations,Clerk,83218,23,4,4,4,Yes,41,5,1,2,1,38,1,Master's,4,19845,1,2,16,80,1268,21526,Yes
+489,50,Female,Single,IT,Clerk,49229,29,15,2,4,No,7,2,4,2,1,22,4,High School,2,14093,3,11,1,13,990,28409,No
+490,32,Female,Divorced,Operations,Clerk,105209,14,1,4,4,Yes,23,0,2,2,2,14,4,High School,2,19500,1,3,18,47,514,18272,Yes
+491,39,Male,Married,Sales,Analyst,57877,26,7,3,3,Yes,24,3,1,3,2,17,2,PhD,1,8785,2,11,19,93,493,14734,Yes
+492,33,Male,Divorced,Sales,Executive,88001,5,12,1,1,Yes,5,8,4,1,1,21,4,High School,3,9507,2,8,5,79,1961,13353,No
+493,30,Female,Married,Sales,Manager,127137,31,10,1,3,No,5,1,2,2,2,15,1,Master's,3,8830,1,11,12,82,1738,5501,Yes
+494,31,Male,Divorced,Operations,Engineer,68084,25,5,2,1,No,17,2,4,1,2,15,2,Master's,1,7561,3,11,8,61,828,15530,Yes
+495,38,Male,Married,Finance,Engineer,111780,31,12,3,2,No,30,1,1,3,0,1,3,High School,4,17519,3,4,11,40,457,14394,No
+496,59,Male,Married,IT,Executive,122892,20,18,4,3,Yes,9,1,2,3,1,24,3,High School,3,3659,2,5,17,35,1699,3499,Yes
+497,28,Male,Married,Sales,Clerk,46806,17,10,4,2,Yes,6,9,2,5,1,12,1,Master's,3,14535,1,0,7,45,1281,29539,Yes
+498,34,Male,Married,Sales,Manager,118635,2,6,1,4,No,25,7,2,2,2,10,4,Master's,4,17002,2,3,17,35,773,11669,Yes
+499,30,Female,Single,Sales,Engineer,140177,25,12,4,2,No,19,2,4,5,1,31,3,Bachelor's,4,7682,2,13,1,37,117,27479,Yes
+500,48,Female,Married,IT,Engineer,67034,13,7,1,2,No,16,6,4,2,1,11,4,PhD,1,18702,4,3,7,14,827,28207,Yes
+501,23,Male,Single,Sales,Clerk,70317,39,18,2,2,Yes,21,7,1,3,1,16,3,High School,1,13939,2,9,9,83,1954,25071,No
+502,26,Male,Single,IT,Executive,85468,28,2,4,2,No,2,2,3,3,2,9,4,PhD,1,11826,3,7,8,27,660,23629,Yes
+503,50,Male,Married,Sales,Manager,49094,6,10,3,1,Yes,10,1,2,4,2,14,3,Master's,3,8249,1,7,17,24,1691,27746,Yes
+504,58,Female,Single,Operations,Executive,87796,3,15,4,3,No,16,7,2,4,2,19,3,PhD,1,15645,1,9,7,66,1470,12519,Yes
+505,59,Male,Divorced,Operations,Executive,40589,35,12,1,1,Yes,37,2,1,3,0,31,2,High School,3,12710,4,5,18,14,1181,15239,No
+506,40,Female,Married,IT,Manager,87221,18,17,2,1,Yes,15,6,2,3,1,9,2,High School,2,11813,4,7,2,46,254,20128,No
+507,29,Female,Single,Operations,Manager,31657,11,4,1,1,No,13,0,4,1,0,36,1,PhD,4,15769,3,8,8,95,1690,4039,No
+508,22,Female,Married,IT,Engineer,128300,20,7,4,2,Yes,13,5,4,1,2,39,3,High School,4,17161,4,4,12,95,1610,10311,Yes
+509,43,Male,Married,Operations,Engineer,147229,5,9,1,1,No,32,8,2,5,0,26,4,Bachelor's,2,12729,2,0,8,31,1976,5857,Yes
+510,38,Female,Married,Operations,Manager,69531,19,19,1,3,Yes,45,2,2,4,1,8,3,Master's,1,18680,2,0,19,61,1654,28251,Yes
+511,28,Male,Single,IT,Analyst,82227,22,7,2,1,Yes,47,6,4,4,1,24,4,Master's,3,19147,3,1,11,24,586,27896,Yes
+512,46,Female,Divorced,Finance,Engineer,33164,19,2,3,4,No,46,5,2,3,2,8,4,High School,3,13262,1,1,12,26,250,6950,Yes
+513,25,Male,Divorced,Operations,Analyst,123078,16,6,4,2,Yes,8,7,4,3,2,19,3,Master's,3,5365,3,4,7,60,1482,27591,No
+514,57,Female,Single,Sales,Manager,113973,24,18,2,4,No,43,2,3,5,0,30,4,Bachelor's,4,16195,4,6,14,54,467,25471,Yes
+515,27,Male,Married,Finance,Engineer,71247,4,6,3,3,No,18,2,3,4,2,22,1,High School,1,14037,1,6,12,72,1743,17441,Yes
+516,52,Female,Single,IT,Executive,134041,15,13,1,3,No,36,3,2,1,0,9,2,Bachelor's,3,14230,1,14,12,37,1170,14735,No
+517,40,Male,Single,Finance,Manager,49601,25,19,3,3,Yes,26,2,2,2,1,4,4,Bachelor's,3,18552,1,3,16,68,306,24415,No
+518,48,Male,Single,HR,Clerk,123966,35,2,1,3,Yes,10,8,2,5,1,37,3,Master's,3,5728,4,12,14,95,1998,3743,No
+519,31,Male,Married,HR,Analyst,80599,14,12,1,1,Yes,31,3,4,2,1,8,2,Master's,2,18477,2,3,18,30,549,15283,No
+520,47,Male,Single,Operations,Manager,101545,19,15,2,2,No,33,5,3,1,1,1,1,PhD,3,7938,2,13,2,51,1606,28518,No
+521,40,Female,Married,Operations,Manager,145295,38,14,1,3,No,29,7,3,1,1,28,4,Bachelor's,2,3131,4,13,13,90,1975,21925,Yes
+522,24,Female,Single,Sales,Engineer,34552,36,6,2,4,Yes,5,7,1,2,0,6,4,Master's,3,3293,4,10,9,78,1023,11638,Yes
+523,34,Male,Divorced,Finance,Engineer,146452,7,18,3,3,Yes,13,4,1,5,1,36,2,Bachelor's,3,17727,3,14,16,91,1763,5616,Yes
+524,49,Female,Single,HR,Engineer,39417,30,5,3,2,No,1,4,2,2,0,11,4,PhD,3,13488,3,9,7,26,796,17383,Yes
+525,41,Male,Single,Operations,Clerk,88579,19,18,1,4,Yes,23,5,4,5,1,5,3,Bachelor's,2,9846,2,2,17,77,669,5894,Yes
+526,49,Male,Divorced,Finance,Engineer,137525,25,3,2,4,No,40,9,2,5,0,24,2,High School,3,10584,4,10,11,16,242,20108,No
+527,29,Female,Married,Operations,Manager,98207,16,3,1,4,Yes,3,6,3,3,0,18,2,PhD,1,19670,3,1,16,98,1523,8227,Yes
+528,22,Male,Married,Operations,Engineer,102055,8,10,2,1,No,3,9,2,4,0,20,4,PhD,3,11641,4,2,10,49,1220,12464,Yes
+529,24,Male,Single,HR,Executive,132266,18,19,2,3,Yes,7,6,2,4,2,28,1,Bachelor's,2,14432,4,7,8,49,1170,22446,No
+530,34,Female,Divorced,HR,Engineer,108270,28,3,2,1,Yes,36,3,3,1,0,13,1,Bachelor's,2,13895,2,14,14,52,290,9847,No
+531,49,Male,Married,Operations,Clerk,141426,16,12,3,4,No,35,5,3,3,0,5,1,Master's,1,8303,2,0,8,82,239,6281,Yes
+532,46,Male,Single,IT,Executive,147865,19,16,2,1,No,15,6,3,4,1,30,1,High School,4,11444,4,3,11,92,714,26647,Yes
+533,54,Male,Divorced,Operations,Manager,33722,17,17,3,1,No,40,4,3,5,0,1,2,PhD,1,12611,1,6,10,60,1354,20584,No
+534,59,Male,Married,Operations,Manager,100442,13,7,2,1,Yes,3,4,1,5,0,22,2,PhD,1,13528,1,4,16,82,1463,4143,Yes
+535,27,Female,Married,Sales,Analyst,125632,7,13,3,3,No,29,1,4,2,2,18,4,PhD,2,3999,4,1,5,32,1024,16780,No
+536,53,Female,Divorced,Sales,Executive,70031,27,2,4,4,No,30,6,4,2,1,5,1,Master's,3,6760,2,0,7,41,1614,5181,Yes
+537,42,Female,Divorced,Sales,Analyst,109235,10,4,3,4,Yes,39,5,3,5,2,31,1,High School,3,7116,1,5,9,40,1172,28057,No
+538,37,Male,Divorced,IT,Executive,51438,34,10,3,3,No,18,0,4,5,2,6,4,PhD,4,7411,2,12,14,26,723,21259,No
+539,42,Male,Divorced,IT,Executive,88819,36,7,1,1,No,11,3,4,2,2,27,4,PhD,4,13362,1,12,3,67,1576,8520,No
+540,32,Female,Single,Operations,Clerk,73856,25,17,2,1,No,43,2,4,4,0,25,4,Master's,4,14113,4,4,17,95,1439,15052,Yes
+541,58,Male,Divorced,Sales,Analyst,63576,6,6,4,2,Yes,49,2,4,1,2,29,3,Bachelor's,4,6683,3,2,10,44,1445,14271,No
+542,57,Male,Married,IT,Clerk,71938,24,19,1,2,Yes,38,6,3,2,2,28,4,PhD,1,17982,3,10,8,39,186,19480,No
+543,56,Male,Married,HR,Executive,79028,18,5,2,2,Yes,40,9,2,4,1,16,4,High School,1,4853,2,10,8,73,1597,14499,Yes
+544,40,Male,Single,Operations,Manager,89807,23,10,4,3,No,1,3,2,4,1,12,3,High School,3,16079,2,14,7,62,381,10915,Yes
+545,41,Female,Married,Finance,Executive,79877,6,9,4,4,Yes,29,7,2,4,1,20,1,High School,1,9895,1,10,2,60,1962,18122,Yes
+546,39,Female,Married,Operations,Clerk,127783,29,13,4,2,No,10,8,1,3,1,18,2,High School,3,15935,4,8,17,46,863,13431,No
+547,35,Female,Divorced,Finance,Analyst,73461,25,19,2,4,No,28,2,4,3,2,34,1,Master's,3,15552,1,2,13,99,1197,8918,No
+548,36,Male,Married,Sales,Analyst,123474,17,6,4,4,No,31,4,3,4,1,23,2,PhD,3,19053,4,1,2,15,552,28954,No
+549,52,Female,Single,Finance,Clerk,70469,24,4,4,4,Yes,19,3,3,5,0,27,2,Master's,3,3862,4,4,16,43,146,10148,Yes
+550,22,Female,Divorced,Sales,Analyst,113136,11,3,1,3,Yes,3,9,1,3,2,17,4,High School,2,7527,2,8,3,65,1711,15038,Yes
+551,24,Male,Divorced,HR,Engineer,50435,26,3,3,3,No,36,5,3,2,1,21,4,High School,3,15247,3,7,17,34,1219,15805,No
+552,37,Male,Single,Finance,Manager,114117,34,4,2,3,No,43,9,2,3,2,31,3,High School,1,6795,3,5,14,22,1037,21598,Yes
+553,44,Female,Divorced,Operations,Manager,44191,28,5,3,3,Yes,15,3,1,5,1,3,1,Master's,1,15796,2,2,18,72,130,9749,Yes
+554,32,Female,Divorced,Sales,Manager,114726,3,8,1,2,Yes,33,7,3,1,2,17,1,High School,1,15734,3,5,5,75,633,23948,No
+555,33,Female,Single,Operations,Analyst,145660,11,16,3,1,Yes,41,2,1,3,1,26,2,PhD,1,3527,2,4,14,14,116,4871,No
+556,31,Female,Divorced,IT,Analyst,57386,38,3,4,1,No,43,4,1,4,0,23,4,High School,2,5922,1,0,6,84,1335,6489,Yes
+557,53,Male,Single,Sales,Executive,61721,14,12,4,1,Yes,45,0,3,4,1,6,4,PhD,4,8849,4,4,11,20,1783,6607,No
+558,37,Female,Single,Finance,Executive,84786,26,8,2,2,Yes,26,5,2,4,2,28,1,PhD,4,15956,3,13,15,97,1358,14973,Yes
+559,29,Female,Married,Sales,Manager,43704,21,13,2,1,Yes,16,4,3,1,2,8,3,High School,3,9959,3,6,8,87,491,14111,Yes
+560,59,Male,Married,Operations,Engineer,86635,39,4,2,2,No,36,7,4,5,0,8,4,Master's,3,6086,1,8,19,53,1106,25148,No
+561,33,Female,Divorced,HR,Executive,32123,30,14,1,2,Yes,33,8,4,2,2,19,3,Bachelor's,1,12962,1,11,4,94,453,7834,No
+562,45,Male,Divorced,Sales,Executive,120710,8,14,2,2,No,20,7,3,5,0,38,1,Bachelor's,1,18419,3,14,10,78,404,11912,Yes
+563,49,Male,Single,Finance,Analyst,139837,20,13,1,1,No,13,7,2,1,2,29,1,PhD,4,6323,3,0,1,11,1722,5399,Yes
+564,29,Male,Divorced,IT,Engineer,144912,32,6,4,4,No,33,2,4,4,2,23,3,Master's,4,3445,2,2,15,49,1673,23762,No
+565,49,Female,Single,HR,Manager,92993,22,17,3,1,Yes,5,3,4,5,0,32,4,Bachelor's,1,12963,2,7,3,46,1688,20241,Yes
+566,57,Female,Single,IT,Executive,142752,7,4,4,1,Yes,37,3,3,2,2,10,1,High School,3,18437,3,5,4,58,1663,9604,Yes
+567,47,Male,Divorced,Sales,Engineer,110122,9,8,4,3,Yes,14,4,3,4,2,27,2,High School,2,19855,2,12,6,84,1712,12957,Yes
+568,29,Female,Single,Operations,Engineer,127512,1,17,4,2,No,27,8,3,2,0,1,1,PhD,2,19411,1,4,5,45,608,9731,Yes
+569,49,Female,Married,Operations,Manager,55416,29,3,2,4,Yes,23,8,1,3,1,39,4,Master's,4,13847,4,12,9,84,811,20780,Yes
+570,49,Male,Divorced,Finance,Engineer,31814,8,17,2,3,No,14,9,1,2,0,29,2,Master's,4,6236,2,9,13,82,1518,29138,No
+571,58,Male,Married,Operations,Engineer,108537,4,9,2,4,Yes,40,0,1,4,2,3,1,Bachelor's,4,16487,4,1,7,79,1554,17808,Yes
+572,57,Female,Divorced,HR,Engineer,80258,35,2,3,4,Yes,4,7,3,3,1,37,4,Bachelor's,2,14848,2,2,13,43,784,29022,Yes
+573,48,Male,Single,Operations,Executive,46508,3,13,2,2,Yes,39,0,2,4,1,31,4,High School,2,16155,3,11,13,67,885,4261,No
+574,38,Female,Divorced,Finance,Manager,115166,7,2,1,1,Yes,19,1,4,4,1,11,1,PhD,1,14255,2,1,19,46,1685,13809,No
+575,30,Female,Married,Sales,Engineer,108916,27,11,4,2,No,47,6,1,3,0,22,4,Master's,3,4979,4,0,2,69,956,19696,No
+576,54,Female,Single,Sales,Engineer,143710,1,15,3,2,No,4,7,2,2,1,18,3,Bachelor's,4,12007,4,6,0,21,276,12056,Yes
+577,41,Female,Divorced,Operations,Executive,65699,27,11,3,3,No,30,0,3,1,1,35,2,Bachelor's,1,5326,3,13,8,41,1529,20689,Yes
+578,34,Male,Divorced,IT,Manager,76335,16,3,3,2,No,19,2,1,1,1,6,3,PhD,2,5330,4,2,8,90,400,23891,No
+579,49,Male,Divorced,Sales,Analyst,76806,38,3,3,1,Yes,31,6,3,1,2,3,1,PhD,1,4002,3,6,1,13,544,28383,No
+580,50,Male,Married,Operations,Executive,107853,7,12,3,4,No,31,8,2,1,0,5,3,High School,2,12734,3,11,15,42,1862,21125,No
+581,34,Male,Married,Finance,Manager,93768,23,5,1,2,No,9,7,1,5,0,9,1,PhD,3,9448,4,6,7,52,1250,21720,No
+582,56,Female,Divorced,Operations,Engineer,65739,11,7,4,4,No,13,7,1,1,2,28,1,High School,2,9837,1,7,5,18,1472,25864,No
+583,27,Female,Single,Sales,Manager,64785,33,7,3,2,Yes,14,8,1,3,1,19,4,High School,1,15396,4,0,12,60,120,23543,Yes
+584,39,Male,Single,Finance,Manager,61980,36,13,4,4,No,46,9,1,1,2,28,4,PhD,3,10354,4,4,0,29,1115,2997,No
+585,26,Female,Married,Operations,Manager,119335,37,9,2,2,No,10,2,2,4,2,27,1,PhD,2,17251,2,9,18,48,810,17155,Yes
+586,46,Female,Single,HR,Analyst,130719,17,13,3,3,Yes,48,7,1,1,1,13,2,PhD,4,5529,4,8,14,32,800,8353,Yes
+587,23,Female,Married,Finance,Manager,124702,35,12,3,4,Yes,31,0,4,2,1,38,2,PhD,2,16209,2,11,0,50,1967,20703,No
+588,31,Male,Divorced,HR,Analyst,115016,5,13,4,2,No,37,7,4,3,0,21,2,PhD,3,6912,2,10,9,53,1543,5207,No
+589,51,Male,Married,IT,Engineer,31609,32,10,3,2,No,23,6,3,3,1,27,3,High School,1,14316,4,6,0,44,251,27174,No
+590,26,Male,Married,Finance,Analyst,96253,3,1,3,3,Yes,27,7,1,5,2,6,1,Bachelor's,3,4421,3,0,11,32,1283,11275,No
+591,54,Female,Divorced,HR,Engineer,115481,35,8,3,3,No,6,0,4,4,2,38,4,Master's,1,16510,1,7,10,67,958,21965,No
+592,22,Male,Single,Sales,Engineer,121128,14,16,1,3,Yes,26,5,4,3,1,11,3,Master's,2,14152,4,2,16,57,1603,17874,Yes
+593,39,Male,Married,Sales,Analyst,58141,31,13,1,4,No,2,6,4,2,0,17,3,High School,2,8617,4,12,3,96,1566,5086,No
+594,53,Male,Married,IT,Executive,60009,31,3,3,4,No,45,4,2,1,2,39,4,High School,3,4195,3,3,6,67,195,17973,No
+595,32,Male,Divorced,Finance,Clerk,140966,17,3,1,3,No,13,4,1,3,1,7,1,Bachelor's,4,9229,2,3,11,66,1475,25550,Yes
+596,42,Male,Single,Finance,Manager,36782,24,5,2,1,No,19,6,2,2,0,30,3,PhD,2,8305,3,14,12,96,1198,28878,No
+597,47,Male,Married,Finance,Clerk,122072,23,11,3,1,No,1,2,2,1,0,21,1,High School,4,11077,3,9,4,48,977,29360,No
+598,46,Female,Divorced,IT,Manager,129352,18,7,2,2,Yes,40,5,4,5,2,1,1,Master's,4,18880,2,13,5,37,1717,19105,No
+599,43,Female,Married,Finance,Manager,55933,14,10,4,1,Yes,32,6,4,3,2,25,1,PhD,3,12345,4,11,1,73,739,16870,Yes
+600,48,Male,Divorced,Sales,Engineer,107154,15,10,2,2,No,22,0,3,3,0,32,4,High School,2,8200,3,7,6,71,1482,3154,No
+601,34,Male,Single,HR,Manager,38307,15,2,4,4,No,48,1,1,2,0,8,1,PhD,4,12874,3,0,13,92,1256,18029,No
+602,54,Female,Single,Sales,Manager,122207,6,3,3,4,No,29,3,1,4,0,5,3,Master's,2,3294,4,7,13,71,499,9167,No
+603,55,Female,Single,Sales,Analyst,136209,27,8,4,1,Yes,2,7,4,5,1,30,4,PhD,1,9097,4,8,9,94,1262,2016,No
+604,56,Male,Single,HR,Clerk,138297,15,11,4,4,Yes,40,9,4,4,2,8,4,High School,4,9412,1,8,3,97,345,9097,Yes
+605,22,Male,Married,Sales,Analyst,105874,36,13,2,3,Yes,38,5,1,3,0,19,3,High School,3,11836,3,4,2,94,1414,27567,No
+606,42,Male,Married,IT,Manager,68346,8,7,2,3,Yes,48,0,3,4,2,30,4,Master's,3,14825,1,3,13,35,211,15165,Yes
+607,27,Male,Single,HR,Engineer,142138,15,13,2,1,Yes,11,9,4,1,2,15,3,Bachelor's,4,9678,2,3,5,60,1838,20616,No
+608,49,Female,Single,Sales,Analyst,80772,3,2,3,1,Yes,17,4,3,5,2,36,2,Bachelor's,2,18735,4,8,14,59,1293,13654,No
+609,38,Male,Single,Operations,Analyst,102084,13,6,3,2,Yes,43,6,2,4,0,27,3,PhD,1,8743,4,14,7,45,1722,19830,No
+610,26,Male,Married,Sales,Executive,70149,34,9,2,4,Yes,8,5,4,1,1,13,4,High School,1,19494,1,7,4,35,1754,18205,Yes
+611,52,Male,Single,IT,Manager,116700,24,2,3,2,No,22,8,2,2,0,14,3,High School,3,11775,3,9,2,42,1733,11657,No
+612,26,Male,Single,Finance,Engineer,57526,32,18,3,2,Yes,4,7,4,4,2,37,2,Master's,3,14417,2,14,2,77,1363,13959,No
+613,59,Female,Single,Sales,Analyst,126758,32,16,4,3,Yes,11,3,2,5,0,30,1,Master's,2,12678,3,9,12,82,1460,24158,Yes
+614,24,Female,Divorced,Finance,Analyst,115712,30,12,4,3,Yes,8,4,4,1,0,39,1,High School,3,7864,3,11,1,17,1261,13819,No
+615,44,Female,Single,Operations,Engineer,98477,13,7,2,3,Yes,9,6,3,4,2,13,1,Master's,2,16467,1,6,0,75,1717,5083,No
+616,58,Male,Divorced,Sales,Manager,35695,1,7,3,3,No,26,7,3,2,2,16,4,Bachelor's,4,4648,3,11,11,32,1359,11735,No
+617,58,Male,Divorced,HR,Executive,69169,34,17,4,2,Yes,2,4,3,4,0,7,2,Bachelor's,1,18677,1,2,7,79,1771,26655,No
+618,31,Female,Single,Finance,Analyst,77947,15,13,1,3,No,16,8,2,1,0,27,3,PhD,4,18918,4,3,18,64,893,8952,Yes
+619,31,Male,Divorced,Operations,Executive,77224,14,11,3,4,No,31,9,3,4,0,35,3,Master's,3,5381,4,14,8,52,1126,26225,Yes
+620,40,Male,Single,HR,Clerk,75865,29,6,1,3,No,6,3,2,5,0,15,3,PhD,1,19489,4,8,13,30,1694,16637,Yes
+621,38,Female,Married,HR,Manager,55553,34,14,2,3,Yes,21,3,4,3,1,28,3,Master's,1,14745,2,13,17,31,215,29863,No
+622,42,Female,Married,HR,Clerk,134501,18,6,3,3,Yes,26,7,2,1,0,35,4,Master's,4,8818,2,12,9,18,1595,11463,No
+623,35,Female,Married,HR,Clerk,90410,7,6,2,1,Yes,19,0,4,1,1,7,4,Bachelor's,2,12886,3,7,8,43,1254,28140,No
+624,30,Female,Married,Sales,Clerk,133754,29,2,2,4,No,28,7,1,1,2,20,2,High School,1,3381,1,11,5,68,1033,7391,No
+625,22,Male,Divorced,Sales,Manager,120895,31,15,2,4,No,8,4,1,1,1,32,3,Master's,2,7356,3,11,0,35,1606,16468,Yes
+626,34,Male,Single,Sales,Manager,54816,25,17,2,2,No,14,0,1,4,2,38,1,Master's,4,8918,4,0,4,10,1524,17091,No
+627,25,Female,Single,Operations,Engineer,85026,38,8,2,2,No,24,3,2,5,1,32,4,Master's,4,4316,3,2,9,14,1324,16964,Yes
+628,22,Male,Single,Operations,Executive,80705,14,5,3,3,Yes,48,1,1,2,2,26,2,High School,2,8454,3,13,12,50,391,28289,No
+629,53,Female,Married,Operations,Executive,91922,8,17,1,1,Yes,44,3,1,5,0,39,2,PhD,4,16107,3,11,3,72,441,27585,No
+630,55,Female,Married,IT,Engineer,145700,27,1,3,2,Yes,37,7,1,1,1,20,4,PhD,1,7074,4,9,0,31,1114,10964,Yes
+631,49,Male,Single,Operations,Engineer,103914,2,18,3,2,No,26,4,4,4,1,18,1,Master's,4,17811,1,1,1,77,1733,9914,No
+632,52,Female,Married,Sales,Clerk,31881,17,15,3,3,No,31,0,3,4,2,15,1,Master's,4,10621,3,1,3,57,1339,16476,Yes
+633,29,Male,Single,Sales,Engineer,69567,37,5,4,3,Yes,32,6,2,1,2,22,3,PhD,1,19126,4,12,16,75,1759,18866,Yes
+634,47,Male,Single,IT,Analyst,77365,14,7,4,2,Yes,41,0,1,4,1,22,4,PhD,2,11654,2,12,9,25,684,28968,No
+635,55,Male,Single,IT,Executive,109211,25,18,3,2,No,2,8,4,1,2,21,1,Bachelor's,4,15872,1,7,11,89,1489,24065,Yes
+636,24,Male,Single,Operations,Engineer,100122,30,6,1,4,Yes,25,2,3,5,0,2,4,Master's,2,17951,4,5,1,62,1765,9437,Yes
+637,33,Female,Single,Finance,Analyst,55006,29,5,3,1,Yes,44,2,3,3,1,18,2,PhD,1,11349,3,11,2,95,1592,13371,No
+638,22,Male,Single,IT,Analyst,71198,20,19,2,4,No,2,5,3,4,0,23,2,Bachelor's,2,13909,4,11,13,74,1541,11773,Yes
+639,26,Female,Single,HR,Analyst,52831,21,10,4,2,No,42,9,4,1,1,13,2,High School,2,13760,1,11,14,88,126,29097,Yes
+640,51,Female,Married,Sales,Analyst,130649,22,15,4,4,No,1,5,1,1,0,9,4,Master's,3,14584,3,12,12,73,1800,27681,No
+641,51,Female,Single,HR,Clerk,46459,35,10,3,4,Yes,36,5,3,4,1,7,3,PhD,3,5106,2,5,8,97,554,7203,Yes
+642,38,Female,Single,Sales,Analyst,62443,37,16,3,2,No,12,0,4,2,2,1,3,Master's,4,16669,2,3,1,77,1017,21745,No
+643,44,Male,Married,Sales,Clerk,72316,16,12,1,3,Yes,9,4,4,1,1,2,1,Bachelor's,3,5938,2,0,18,72,679,17430,Yes
+644,36,Male,Married,IT,Clerk,126131,17,18,1,2,Yes,36,5,2,4,0,4,4,PhD,3,5483,4,10,15,71,113,14462,No
+645,58,Female,Married,IT,Analyst,94486,16,1,2,3,No,41,7,4,1,1,14,3,High School,3,4375,1,6,10,91,197,24331,No
+646,42,Female,Single,HR,Executive,35877,2,16,3,2,Yes,28,0,3,2,0,32,4,High School,2,13015,2,7,11,90,378,11033,No
+647,35,Male,Divorced,Sales,Analyst,69553,4,6,3,2,No,38,4,3,3,0,36,3,Bachelor's,2,19628,3,1,0,80,589,21918,No
+648,23,Female,Divorced,HR,Analyst,144137,21,3,3,2,No,33,2,4,2,0,2,2,High School,3,18060,3,1,1,54,1084,20256,No
+649,32,Male,Married,Finance,Analyst,34922,39,2,4,1,Yes,42,1,3,5,2,14,2,High School,1,19863,3,0,15,61,1060,17754,Yes
+650,59,Female,Divorced,HR,Executive,147018,34,2,2,3,Yes,46,7,4,4,1,20,1,High School,3,13654,4,3,1,83,1882,25642,No
+651,55,Male,Married,Operations,Manager,34686,30,13,1,1,No,22,6,3,2,0,25,2,High School,1,17253,1,5,18,74,723,24366,No
+652,59,Female,Single,HR,Manager,62766,6,9,4,2,No,25,9,2,3,2,8,3,High School,2,14565,1,13,9,11,306,21889,Yes
+653,55,Female,Divorced,Operations,Clerk,109943,17,16,4,4,No,18,6,1,1,0,28,1,High School,1,3087,2,4,18,58,1987,5320,No
+654,39,Male,Single,Operations,Clerk,62006,39,5,4,1,No,6,4,2,4,1,21,1,High School,2,12432,1,3,9,31,1969,16979,Yes
+655,51,Female,Divorced,Operations,Executive,61422,25,7,4,3,No,18,8,2,2,2,23,2,PhD,1,11764,3,13,15,38,1356,4728,Yes
+656,36,Female,Single,Finance,Engineer,146590,5,13,2,2,No,16,4,1,3,0,32,4,High School,2,3178,3,3,12,44,1696,19338,No
+657,48,Male,Divorced,HR,Manager,42205,5,13,3,1,Yes,15,1,3,2,0,8,2,PhD,2,19546,4,9,15,90,696,3595,Yes
+658,55,Female,Single,HR,Clerk,116590,20,7,1,4,Yes,48,2,1,5,0,31,2,Master's,3,5640,3,14,17,85,794,4288,Yes
+659,59,Male,Single,Finance,Manager,53527,16,10,1,1,Yes,8,3,4,4,1,37,1,Bachelor's,4,12197,1,6,7,33,1362,8845,Yes
+660,54,Male,Divorced,Sales,Executive,141483,37,15,4,3,Yes,13,4,1,1,2,16,2,High School,4,5421,3,6,17,39,349,9663,No
+661,45,Female,Single,IT,Executive,48443,9,6,4,1,No,43,2,2,3,2,27,3,Bachelor's,2,13947,2,1,12,93,1706,25320,Yes
+662,36,Female,Single,HR,Engineer,46524,5,5,2,4,Yes,7,6,1,2,2,18,1,High School,3,4217,4,12,6,51,839,19127,No
+663,51,Female,Single,IT,Engineer,146477,2,2,4,4,Yes,17,4,3,4,0,35,2,PhD,4,5474,4,6,17,80,1720,19878,No
+664,38,Female,Divorced,Finance,Executive,58202,9,15,1,3,No,32,4,2,2,2,15,4,High School,4,3929,1,1,5,59,405,24990,Yes
+665,26,Female,Divorced,Sales,Clerk,95552,36,16,1,4,Yes,22,5,4,4,0,27,3,Master's,3,10958,3,3,8,80,1586,8944,No
+666,50,Female,Single,Sales,Manager,76142,22,19,3,2,No,13,6,3,5,1,17,4,Bachelor's,3,4502,3,14,5,69,1906,29922,Yes
+667,25,Female,Single,Sales,Analyst,91692,22,9,3,4,No,47,9,2,2,2,2,3,Bachelor's,4,3420,1,0,17,39,1925,14302,Yes
+668,31,Male,Divorced,Finance,Engineer,112384,22,19,1,2,No,23,9,4,5,0,31,4,Master's,4,16580,1,4,16,21,1359,25592,No
+669,38,Female,Divorced,Operations,Analyst,50855,34,7,1,1,No,29,7,3,3,2,37,2,PhD,1,18840,2,0,11,58,1414,12180,No
+670,31,Male,Single,Operations,Clerk,113747,29,4,2,2,No,22,8,4,5,2,34,3,PhD,1,8830,1,3,2,91,1162,2207,No
+671,38,Female,Single,IT,Engineer,90372,38,3,2,2,Yes,1,3,1,4,1,34,1,Master's,2,8811,3,12,4,55,1097,3083,Yes
+672,41,Female,Single,Operations,Analyst,55095,33,11,1,1,Yes,29,4,1,3,2,3,1,Bachelor's,4,11619,2,8,6,52,817,20796,Yes
+673,45,Male,Married,Operations,Clerk,68724,18,1,4,4,Yes,48,4,4,2,1,17,4,High School,3,16527,4,12,9,11,282,5311,Yes
+674,26,Female,Divorced,Sales,Manager,79241,7,6,3,2,No,5,7,1,2,2,14,4,PhD,3,19223,3,11,9,84,1822,25135,No
+675,55,Female,Married,Sales,Clerk,133119,1,11,1,4,Yes,35,8,4,4,2,14,4,High School,4,3106,4,7,18,89,744,26341,Yes
+676,27,Male,Divorced,IT,Engineer,82003,33,1,4,1,Yes,10,6,3,1,2,38,3,Bachelor's,2,7049,4,5,3,63,129,10588,Yes
+677,23,Female,Divorced,HR,Executive,98379,1,7,1,3,Yes,19,4,2,1,2,35,1,High School,3,11289,4,14,9,44,1511,28533,Yes
+678,34,Female,Divorced,IT,Manager,124837,24,6,3,4,Yes,37,2,4,2,2,1,2,Master's,4,4903,3,7,17,61,866,18592,Yes
+679,32,Female,Divorced,IT,Analyst,121996,4,14,3,4,No,7,0,2,4,2,29,3,PhD,4,14493,4,4,2,42,1266,15444,No
+680,44,Male,Divorced,Finance,Engineer,127454,4,2,2,3,Yes,46,8,2,1,1,4,4,PhD,2,8376,3,6,2,94,714,25932,Yes
+681,37,Female,Divorced,Finance,Executive,124283,18,4,2,3,No,35,4,4,5,1,33,1,Master's,4,3042,4,7,4,93,1542,27008,No
+682,52,Female,Divorced,IT,Clerk,45972,27,11,2,1,No,45,8,1,2,0,17,4,Master's,3,4577,1,6,15,81,1104,21040,Yes
+683,32,Female,Married,IT,Executive,123846,32,15,2,4,Yes,13,9,3,5,2,28,2,PhD,1,15382,1,13,19,60,173,7850,Yes
+684,37,Female,Single,IT,Engineer,52927,33,18,3,4,No,10,3,2,4,1,26,2,PhD,2,8885,3,3,12,35,1178,20820,Yes
+685,29,Male,Single,Operations,Engineer,145657,28,1,4,1,No,2,4,3,5,2,8,1,PhD,4,11576,4,4,10,71,1061,14719,No
+686,25,Male,Married,Finance,Executive,96630,36,3,4,4,No,6,3,2,1,2,34,3,Bachelor's,2,16106,4,12,12,70,1871,23777,No
+687,25,Female,Married,IT,Clerk,134428,6,3,4,2,No,8,1,4,1,1,18,2,Bachelor's,4,14663,4,13,18,35,1695,18517,No
+688,46,Female,Married,Sales,Executive,82347,16,7,1,2,No,36,0,1,3,2,31,2,Bachelor's,1,6577,1,9,5,46,123,25617,Yes
+689,24,Male,Married,Sales,Engineer,129708,34,1,2,2,No,25,7,3,2,1,27,2,High School,2,19142,4,5,12,39,1145,19022,Yes
+690,53,Male,Divorced,Operations,Engineer,118860,23,11,2,4,No,44,3,2,4,1,16,2,Bachelor's,4,8244,4,13,3,20,527,3228,No
+691,24,Female,Single,Operations,Analyst,116210,24,6,3,2,Yes,47,4,4,2,0,10,4,PhD,1,5134,3,13,4,62,1155,29945,Yes
+692,48,Male,Divorced,HR,Analyst,99518,13,3,3,2,Yes,40,5,4,5,0,12,4,Bachelor's,3,6892,4,11,18,50,962,6019,Yes
+693,50,Female,Single,HR,Manager,75283,18,19,1,1,No,7,7,2,4,0,22,3,PhD,4,7321,1,10,4,14,438,11482,No
+694,53,Male,Single,HR,Engineer,111326,13,2,1,1,No,46,7,2,4,0,16,1,Master's,1,8776,4,5,13,75,1638,16105,Yes
+695,40,Male,Married,Operations,Analyst,42205,37,18,4,3,Yes,23,6,2,1,2,12,1,High School,1,13584,1,12,3,22,611,20580,Yes
+696,42,Male,Divorced,Operations,Executive,119874,39,12,3,3,Yes,19,3,1,5,2,11,1,High School,2,19119,1,8,11,72,1193,11895,Yes
+697,26,Male,Married,Operations,Clerk,42748,17,10,2,3,Yes,46,5,2,1,0,20,2,Master's,4,8828,2,9,5,91,771,16135,No
+698,39,Female,Divorced,Sales,Executive,51097,15,5,4,3,Yes,22,3,2,1,1,1,4,PhD,3,3295,1,13,18,99,1211,18245,Yes
+699,49,Male,Single,Operations,Clerk,33092,18,9,2,1,No,13,6,1,3,1,27,4,High School,4,3413,2,13,9,34,976,28802,No
+700,43,Male,Married,Sales,Analyst,83311,23,2,4,1,No,21,0,4,1,1,3,3,Bachelor's,1,13187,2,1,0,53,670,12387,Yes
+701,42,Female,Married,HR,Manager,52692,30,2,2,1,Yes,1,4,2,2,1,12,1,PhD,3,17316,4,5,15,23,863,19359,No
+702,27,Male,Single,HR,Executive,53862,34,6,1,2,Yes,19,9,3,4,2,30,4,High School,1,9668,2,12,3,78,1342,16904,No
+703,22,Male,Single,HR,Executive,120396,4,10,4,2,Yes,33,9,4,1,1,9,3,Master's,2,18344,3,2,8,68,812,8121,No
+704,26,Female,Single,IT,Executive,109507,3,18,2,3,Yes,4,3,3,2,1,37,1,PhD,4,11195,1,13,17,65,688,3028,No
+705,33,Male,Married,IT,Clerk,110152,7,12,2,2,No,42,6,2,5,0,1,2,High School,1,19561,3,1,16,61,866,18909,Yes
+706,47,Female,Divorced,Finance,Analyst,100469,18,4,3,4,Yes,3,8,1,4,1,4,4,Master's,1,7354,2,5,14,75,1882,4327,No
+707,55,Female,Married,Finance,Executive,34926,7,17,4,1,Yes,27,4,1,5,2,15,4,PhD,4,8482,4,3,18,77,1393,20930,Yes
+708,35,Female,Divorced,Finance,Executive,121299,6,15,2,3,Yes,41,3,1,2,1,27,1,Bachelor's,3,19076,1,4,6,21,918,19219,Yes
+709,47,Female,Married,IT,Manager,33969,22,6,3,3,No,35,8,2,5,1,8,2,PhD,1,18376,3,4,17,84,1774,4483,No
+710,48,Male,Married,IT,Manager,65733,1,16,2,4,No,28,4,2,5,2,23,2,Bachelor's,4,6271,4,2,5,77,177,29439,Yes
+711,30,Female,Single,Finance,Analyst,99855,4,17,4,2,No,6,8,3,5,0,15,4,PhD,2,13674,2,11,18,52,1715,4734,Yes
+712,47,Male,Divorced,Finance,Analyst,71743,29,3,1,3,Yes,6,7,1,1,2,27,1,Master's,2,8392,4,3,11,82,109,11730,Yes
+713,43,Male,Married,Operations,Engineer,69876,21,10,4,2,Yes,44,3,2,1,0,31,3,Bachelor's,4,19673,3,2,2,83,1591,12102,Yes
+714,51,Male,Married,Finance,Manager,137445,26,5,4,2,Yes,23,6,4,1,1,39,4,Bachelor's,1,17309,4,6,0,15,1459,9304,No
+715,38,Male,Single,Operations,Engineer,50323,14,14,2,4,No,33,4,2,4,0,8,2,PhD,4,19791,3,14,4,24,735,6049,Yes
+716,47,Male,Single,Sales,Clerk,46428,9,13,2,3,No,16,9,2,2,0,30,3,High School,4,3693,4,0,0,51,1309,16947,Yes
+717,57,Male,Divorced,IT,Engineer,64578,12,6,4,2,Yes,24,3,4,1,0,18,1,Bachelor's,1,4169,1,14,7,40,1669,29218,Yes
+718,22,Male,Married,Finance,Executive,116486,6,12,3,2,Yes,5,4,1,5,1,4,2,PhD,3,11623,4,5,6,95,1244,11495,Yes
+719,29,Male,Divorced,IT,Engineer,138577,20,8,3,4,No,41,4,4,5,0,22,3,Master's,3,10782,1,3,14,62,691,26707,Yes
+720,56,Male,Married,IT,Analyst,94140,24,5,3,4,Yes,42,8,1,5,0,3,4,PhD,2,16856,3,0,10,15,817,2392,No
+721,36,Male,Divorced,IT,Clerk,137325,27,15,2,2,Yes,13,8,4,5,1,15,2,PhD,3,12174,1,0,17,42,664,13776,Yes
+722,43,Female,Single,Sales,Executive,113829,38,16,2,4,Yes,47,5,3,3,2,35,1,Bachelor's,4,14352,4,4,13,38,1791,12867,No
+723,35,Female,Married,HR,Engineer,36364,8,1,4,2,No,12,3,1,4,2,38,2,High School,1,8530,1,13,8,30,1397,4466,Yes
+724,47,Female,Divorced,Finance,Clerk,65349,1,16,1,3,Yes,5,1,2,2,2,33,4,Master's,2,7992,3,4,4,63,509,3225,No
+725,49,Male,Single,HR,Clerk,30691,24,5,2,1,Yes,37,2,3,2,1,14,1,Bachelor's,3,6312,4,9,3,65,457,16987,Yes
+726,44,Female,Single,HR,Executive,125598,7,3,4,4,Yes,31,1,1,1,1,1,4,Bachelor's,4,16065,1,6,11,30,1770,21089,Yes
+727,35,Female,Divorced,HR,Engineer,96467,19,15,4,1,Yes,28,4,1,3,2,26,3,Bachelor's,2,7318,1,12,0,64,197,2461,No
+728,45,Female,Married,IT,Clerk,75896,22,13,1,2,No,28,5,1,2,0,8,2,Master's,1,17059,2,11,12,67,1106,11993,No
+729,23,Male,Married,Operations,Clerk,87062,35,16,3,2,No,30,4,4,4,2,16,4,High School,3,4688,1,3,0,73,340,13465,No
+730,47,Male,Single,IT,Manager,127266,30,11,4,2,No,18,1,1,5,1,38,3,Master's,4,3467,2,13,2,95,656,22369,Yes
+731,35,Male,Married,IT,Clerk,109762,29,2,4,1,Yes,44,4,2,1,0,10,1,Master's,1,12537,3,8,7,55,810,18535,No
+732,28,Male,Married,HR,Manager,43861,22,6,4,2,No,27,8,1,4,0,37,1,High School,4,5422,2,3,17,93,1926,12461,No
+733,24,Female,Married,IT,Engineer,126837,11,6,3,4,Yes,35,3,2,2,1,26,3,Master's,4,17604,3,6,15,31,1237,14366,No
+734,44,Female,Single,HR,Engineer,143779,20,14,3,3,No,26,9,2,3,0,28,3,PhD,4,7721,1,4,19,69,1610,3785,Yes
+735,39,Female,Divorced,Operations,Engineer,118302,29,11,1,3,Yes,39,1,2,1,2,12,1,Master's,1,12203,1,14,19,20,1912,8242,Yes
+736,59,Female,Married,Finance,Analyst,131710,34,8,2,4,No,49,2,3,2,1,20,4,Bachelor's,2,10541,2,4,15,56,1364,26529,Yes
+737,56,Male,Single,HR,Engineer,93928,1,8,3,3,No,18,2,2,1,1,14,3,Master's,4,12869,3,5,1,40,255,16312,No
+738,36,Male,Single,Operations,Clerk,136643,31,1,2,1,No,33,8,4,2,1,35,4,Bachelor's,2,17785,1,7,16,86,451,8356,Yes
+739,46,Male,Divorced,Finance,Executive,145720,30,7,2,2,Yes,25,3,1,5,1,29,1,Master's,2,16679,2,14,9,27,143,25694,Yes
+740,58,Female,Married,Sales,Manager,113231,18,6,3,2,Yes,31,0,4,3,0,12,4,Bachelor's,3,15542,2,4,6,31,691,25229,Yes
+741,49,Male,Married,HR,Analyst,71347,17,8,4,2,Yes,37,0,3,5,1,18,4,Bachelor's,3,17461,2,14,9,65,1435,21844,Yes
+742,31,Male,Divorced,HR,Engineer,33121,38,19,1,1,No,2,6,1,2,1,2,3,Bachelor's,2,14038,1,2,18,26,237,20220,No
+743,38,Female,Divorced,Sales,Engineer,113793,14,8,2,1,Yes,33,6,2,4,0,2,4,High School,3,15252,3,5,19,47,1786,11589,Yes
+744,43,Female,Single,Sales,Executive,58164,23,14,4,1,Yes,39,1,1,5,1,17,4,Master's,3,12770,1,13,8,34,535,27651,No
+745,47,Male,Single,HR,Executive,55491,25,18,3,4,Yes,43,8,3,4,0,10,4,Master's,2,6749,4,11,16,41,853,24127,No
+746,46,Male,Divorced,Sales,Analyst,89222,15,16,2,1,Yes,43,8,3,2,0,18,1,PhD,1,14817,4,13,8,24,242,24662,No
+747,38,Male,Married,IT,Manager,53165,22,9,2,3,Yes,32,4,4,3,1,22,1,PhD,3,5503,1,1,8,22,1123,28584,No
+748,34,Male,Single,Finance,Engineer,144250,3,15,2,4,Yes,18,2,1,4,2,19,2,PhD,3,10855,3,11,4,67,1946,3493,No
+749,41,Male,Single,Finance,Analyst,33748,19,10,4,4,No,17,2,1,2,1,1,1,Master's,1,16378,2,11,6,99,1422,27711,No
+750,46,Male,Married,Finance,Clerk,128581,34,16,4,4,No,34,2,1,4,2,24,1,High School,1,14329,4,7,10,59,1685,19932,Yes
+751,25,Female,Single,IT,Clerk,56553,35,4,4,1,Yes,39,5,4,5,0,36,2,Bachelor's,1,14101,4,7,7,20,361,27360,No
+752,31,Female,Married,Sales,Analyst,146547,1,13,2,4,No,7,3,3,2,2,25,2,Master's,2,19783,1,14,13,22,611,7163,Yes
+753,24,Female,Married,Operations,Engineer,90380,21,5,2,1,No,42,7,2,5,1,36,3,High School,1,15149,4,2,1,59,772,11612,No
+754,39,Male,Married,Sales,Analyst,74331,29,7,1,1,Yes,35,4,1,1,1,31,3,High School,2,17619,4,11,9,47,161,16297,Yes
+755,57,Female,Divorced,HR,Engineer,126033,6,9,1,4,Yes,30,0,4,2,2,31,1,Master's,4,17985,2,7,15,10,1690,7704,No
+756,43,Male,Divorced,Finance,Executive,126844,37,8,4,2,No,12,8,4,4,1,2,4,Bachelor's,4,18026,2,8,15,48,1546,24788,Yes
+757,55,Male,Divorced,Sales,Analyst,69560,1,16,4,2,Yes,35,0,2,1,2,19,3,High School,1,11428,3,4,18,36,1519,8688,Yes
+758,29,Female,Married,Operations,Engineer,83865,1,6,3,4,No,11,5,3,5,0,12,3,Master's,1,12119,4,4,10,45,130,29011,No
+759,40,Male,Married,HR,Analyst,76686,27,16,4,2,No,44,0,1,5,2,10,1,Bachelor's,4,7124,3,5,5,41,1453,17835,No
+760,58,Male,Divorced,IT,Analyst,105910,21,6,1,3,No,4,2,1,4,2,31,4,PhD,2,19375,3,6,5,50,1048,22035,No
+761,27,Female,Single,IT,Engineer,34675,16,14,1,3,Yes,25,9,4,1,2,22,2,High School,2,3449,2,2,6,24,901,20447,No
+762,47,Female,Married,Operations,Engineer,96706,26,1,1,1,No,48,4,3,3,2,23,2,High School,1,19763,2,4,15,40,1292,20404,Yes
+763,55,Female,Single,HR,Manager,136985,16,9,2,2,Yes,32,9,1,4,0,23,1,Master's,1,18034,1,0,12,15,365,23141,Yes
+764,27,Male,Single,Finance,Analyst,139021,28,13,2,3,Yes,20,6,2,5,0,15,1,Master's,1,12442,2,10,2,98,407,24307,No
+765,58,Female,Married,Sales,Clerk,107986,1,19,4,4,Yes,31,9,3,2,0,26,4,Bachelor's,4,15643,3,9,8,61,558,12341,No
+766,54,Female,Married,HR,Analyst,106216,36,17,3,2,Yes,4,7,3,1,2,3,1,PhD,3,5301,4,4,2,91,1308,9353,Yes
+767,43,Male,Single,IT,Analyst,40068,10,11,3,3,Yes,38,8,4,3,0,23,1,PhD,1,10710,3,3,5,31,433,11142,No
+768,42,Female,Single,Operations,Engineer,84460,17,8,3,3,No,47,5,4,2,1,20,1,Master's,2,8792,3,0,16,40,614,17266,Yes
+769,27,Female,Divorced,Operations,Analyst,130766,23,5,2,4,Yes,1,8,1,1,0,39,4,Master's,3,12659,3,6,2,82,540,10216,No
+770,27,Female,Divorced,Sales,Analyst,76418,7,10,1,1,Yes,3,7,4,4,2,8,1,Bachelor's,2,10216,2,14,1,55,772,17932,No
+771,25,Male,Married,Operations,Clerk,56206,7,7,1,4,Yes,37,8,3,4,1,18,3,Master's,3,14712,3,0,11,76,490,26593,Yes
+772,51,Male,Divorced,Operations,Engineer,30287,15,10,2,1,Yes,22,9,1,1,2,6,4,Bachelor's,4,7905,1,12,5,52,1895,14017,Yes
+773,32,Male,Divorced,HR,Analyst,52337,34,4,3,3,Yes,17,3,1,3,1,27,3,Bachelor's,3,18766,4,7,9,10,1034,2569,No
+774,51,Male,Divorced,Finance,Executive,50666,4,9,3,1,No,14,8,3,1,2,36,4,PhD,2,8999,2,13,10,53,659,7112,Yes
+775,52,Female,Divorced,Sales,Manager,146595,14,14,4,3,Yes,41,6,1,2,2,15,3,Bachelor's,3,19983,3,9,15,66,353,3355,No
+776,45,Male,Single,HR,Clerk,31161,14,2,4,3,Yes,35,4,2,2,1,37,4,PhD,4,10288,1,11,15,18,1709,10056,Yes
+777,30,Male,Married,Finance,Analyst,144817,16,9,3,2,No,13,4,2,4,0,5,2,PhD,2,14266,4,1,17,14,1458,28168,No
+778,24,Female,Divorced,HR,Executive,130667,7,1,2,1,Yes,35,0,1,1,1,39,1,PhD,1,18586,3,9,8,88,1523,18086,No
+779,52,Female,Single,HR,Analyst,120071,32,10,3,1,No,43,1,4,4,1,9,1,Master's,3,4567,4,12,18,18,1289,19214,No
+780,58,Female,Single,Operations,Analyst,128064,19,10,4,1,No,2,9,2,3,1,7,4,PhD,2,18110,2,11,1,54,1383,23515,Yes
+781,57,Male,Single,Finance,Engineer,68751,2,3,3,4,No,47,2,1,2,1,20,3,Bachelor's,3,19082,2,4,0,86,1127,29658,Yes
+782,45,Male,Divorced,Sales,Engineer,112063,10,6,2,2,No,13,7,2,5,1,10,2,Master's,4,4094,1,12,15,33,218,16220,Yes
+783,52,Male,Divorced,Sales,Engineer,136511,17,6,1,2,Yes,16,5,4,5,2,26,3,Bachelor's,2,14135,2,5,17,83,1095,16498,Yes
+784,27,Female,Married,Finance,Executive,119389,37,2,2,2,Yes,18,9,3,1,2,4,1,Master's,1,16508,1,8,2,51,569,23786,No
+785,23,Female,Divorced,Operations,Analyst,44758,12,18,2,4,No,7,4,1,1,0,38,1,Bachelor's,1,15345,3,14,0,31,1593,27447,Yes
+786,41,Male,Divorced,IT,Manager,95780,6,2,4,1,No,45,0,1,5,0,24,3,High School,3,12684,4,13,5,69,884,2834,Yes
+787,49,Female,Single,HR,Clerk,145614,22,12,2,1,Yes,36,8,1,1,1,14,4,High School,4,9191,2,6,18,95,1616,29888,Yes
+788,32,Female,Married,Operations,Engineer,33178,32,5,2,1,No,41,2,1,2,0,1,4,High School,4,11046,4,5,18,46,1861,23336,No
+789,25,Female,Divorced,Finance,Engineer,61831,20,7,4,2,No,30,2,1,3,0,17,3,Bachelor's,3,7934,4,4,10,48,1987,13308,Yes
+790,36,Male,Divorced,HR,Analyst,32176,1,16,4,2,No,42,1,1,3,1,24,1,Master's,2,17038,3,5,7,93,1623,2969,Yes
+791,27,Female,Single,Sales,Analyst,133306,6,1,1,3,Yes,41,3,4,4,2,27,3,PhD,2,4354,3,14,4,83,1193,2592,No
+792,51,Female,Single,IT,Executive,63654,19,1,3,4,No,7,1,3,2,2,7,1,PhD,3,9473,2,13,19,83,793,2254,No
+793,59,Male,Divorced,Sales,Executive,56627,18,17,2,4,Yes,15,8,4,1,0,9,3,Bachelor's,2,15794,3,10,8,99,964,12306,No
+794,23,Male,Married,Finance,Engineer,82550,6,1,4,2,Yes,40,9,4,1,2,35,4,Bachelor's,2,5963,4,3,14,98,875,29541,No
+795,36,Female,Married,HR,Analyst,142025,33,13,1,3,Yes,19,6,3,4,2,12,2,Bachelor's,2,17503,1,0,13,62,1493,4661,No
+796,32,Female,Single,Finance,Manager,74910,23,9,3,1,No,43,7,4,4,0,21,1,Bachelor's,3,6042,1,14,3,37,280,17309,No
+797,29,Male,Single,HR,Clerk,120417,23,15,4,2,No,37,2,2,1,1,3,2,PhD,1,9973,1,11,7,86,1128,10794,No
+798,47,Male,Divorced,Operations,Analyst,88251,26,3,3,4,Yes,2,5,4,1,0,15,4,Master's,4,10139,2,8,19,24,1320,27641,Yes
+799,26,Female,Single,IT,Analyst,65422,13,14,3,4,Yes,42,9,1,2,0,21,3,PhD,1,14226,3,10,16,69,146,20223,No
+800,27,Female,Divorced,Operations,Executive,41984,7,11,2,4,Yes,48,5,2,4,0,10,4,Bachelor's,2,9930,3,4,1,69,1675,7905,No
+801,47,Female,Married,Operations,Clerk,119312,15,12,2,1,No,13,0,2,2,1,33,2,High School,3,17762,3,7,19,15,733,4431,No
+802,25,Female,Married,Finance,Engineer,91386,27,13,4,4,No,40,5,3,1,1,6,4,PhD,4,8340,3,6,15,61,1770,9756,No
+803,40,Male,Divorced,IT,Analyst,113291,26,13,3,1,Yes,41,2,4,5,1,2,4,High School,2,8111,4,7,9,21,1263,7353,No
+804,41,Female,Single,HR,Engineer,37135,33,1,4,1,Yes,43,2,4,5,1,29,3,High School,4,6081,1,0,1,28,1985,19349,Yes
+805,54,Female,Married,HR,Analyst,30320,15,10,4,1,No,43,2,2,1,0,33,2,Bachelor's,4,10802,4,8,10,84,1788,3737,Yes
+806,41,Male,Single,Sales,Engineer,132958,36,3,3,2,Yes,31,9,4,4,2,4,2,PhD,1,12462,2,0,9,11,1663,18868,Yes
+807,33,Female,Married,HR,Clerk,124171,27,4,4,1,No,16,9,4,5,0,4,2,Master's,2,18580,1,2,18,64,1550,26325,Yes
+808,22,Male,Divorced,Finance,Executive,51684,5,16,3,3,No,42,7,3,4,1,29,1,PhD,4,10994,1,7,13,24,688,14326,Yes
+809,47,Female,Divorced,Operations,Clerk,85913,2,8,3,4,Yes,44,4,2,5,2,37,4,Master's,1,6531,4,11,10,73,1810,26586,Yes
+810,35,Female,Divorced,Operations,Manager,118774,33,16,3,2,Yes,6,3,1,4,0,20,2,Master's,3,12343,2,10,8,78,1684,14911,Yes
+811,59,Male,Married,Operations,Executive,51889,16,17,3,4,No,28,8,2,5,2,23,4,Bachelor's,4,3716,2,0,6,24,1977,24635,No
+812,58,Male,Single,IT,Clerk,125849,23,19,1,1,No,32,8,3,4,1,18,3,Master's,2,9229,1,13,14,52,409,20411,No
+813,32,Female,Single,HR,Manager,128071,38,15,3,2,No,44,0,3,2,2,25,3,PhD,3,19588,3,0,19,83,373,7213,No
+814,57,Female,Single,Finance,Analyst,78899,16,16,2,3,No,10,1,3,4,2,1,1,PhD,4,15021,2,5,16,26,1662,26374,No
+815,34,Female,Married,IT,Analyst,40770,14,15,2,1,No,18,7,4,2,1,15,1,High School,4,14301,4,4,2,33,939,8227,No
+816,24,Male,Married,Sales,Engineer,69321,29,2,2,4,Yes,4,4,2,2,2,34,3,Master's,2,7094,2,10,14,83,1513,29940,No
+817,54,Female,Married,Finance,Executive,115962,26,11,3,3,No,9,6,4,1,0,20,2,Bachelor's,4,12524,1,5,13,39,558,13279,Yes
+818,27,Male,Married,Finance,Analyst,139863,35,1,2,1,No,7,0,4,2,2,37,3,Bachelor's,2,13041,3,2,7,76,832,29614,No
+819,31,Male,Married,Finance,Executive,71777,15,15,1,3,No,8,9,2,3,0,27,4,PhD,2,11103,2,9,3,60,1757,17836,No
+820,26,Female,Single,Operations,Analyst,76250,3,19,4,1,Yes,43,4,3,2,2,22,1,Master's,2,18090,1,11,9,69,460,25365,No
+821,44,Male,Married,Finance,Engineer,103034,23,4,3,2,Yes,7,2,1,4,2,5,1,Bachelor's,2,18915,2,9,1,12,1117,10796,Yes
+822,31,Female,Married,HR,Clerk,134940,29,11,2,1,No,41,9,1,2,1,34,3,Master's,4,11709,3,5,13,14,1192,18351,Yes
+823,23,Female,Single,Finance,Engineer,70130,34,5,1,2,No,40,1,2,4,1,39,2,Master's,3,4438,4,1,7,37,1706,19352,Yes
+824,34,Female,Married,Operations,Manager,111931,33,3,4,1,Yes,3,1,2,4,0,3,2,High School,3,18029,1,7,9,87,761,18820,No
+825,23,Female,Single,Finance,Analyst,79346,23,13,1,1,Yes,17,8,3,3,1,17,4,Bachelor's,1,7517,1,14,17,20,798,12966,No
+826,41,Female,Single,Sales,Manager,32537,7,10,2,4,Yes,2,3,2,2,1,24,1,High School,2,13905,3,11,14,81,1554,15967,No
+827,22,Male,Divorced,Sales,Manager,114762,3,11,1,3,Yes,15,3,2,2,1,24,3,Bachelor's,4,4244,1,5,4,81,984,3809,Yes
+828,58,Male,Divorced,Operations,Executive,45216,32,18,4,3,No,46,6,3,5,1,3,3,Master's,4,5416,3,12,12,85,857,8546,Yes
+829,30,Female,Divorced,HR,Analyst,114149,31,2,2,3,Yes,29,9,3,5,1,7,1,Bachelor's,1,18293,1,12,17,24,1831,10107,No
+830,38,Female,Divorced,HR,Manager,33009,18,7,4,1,No,48,9,4,1,0,25,3,PhD,3,9490,3,3,1,92,1155,7505,Yes
+831,30,Male,Married,IT,Clerk,119904,7,9,1,1,No,22,1,2,4,0,3,1,Master's,4,14683,2,3,12,57,720,7257,No
+832,32,Male,Divorced,Operations,Manager,59327,1,10,3,1,Yes,4,2,1,3,1,15,2,Bachelor's,1,8839,2,13,13,55,1988,17051,Yes
+833,36,Male,Single,Finance,Clerk,44209,14,18,3,2,Yes,6,2,2,5,1,29,2,High School,3,17850,2,10,9,37,1636,6909,Yes
+834,45,Male,Married,Operations,Executive,78443,32,7,3,2,Yes,38,5,1,2,0,29,3,High School,4,15170,1,6,3,16,281,29345,Yes
+835,59,Female,Divorced,IT,Manager,45029,6,7,3,4,Yes,26,2,1,1,2,10,2,Master's,2,14967,3,13,14,80,785,16866,No
+836,56,Female,Single,Operations,Engineer,97613,39,3,4,1,No,11,4,1,3,0,32,2,High School,1,8009,3,2,7,91,780,12021,Yes
+837,51,Male,Married,Operations,Executive,109443,10,12,3,3,No,26,3,4,2,2,23,4,Master's,4,17312,4,10,14,97,347,26868,No
+838,52,Female,Married,IT,Clerk,86997,7,7,4,3,No,17,2,3,2,1,39,1,Master's,1,11924,2,2,13,15,719,17358,No
+839,26,Male,Divorced,HR,Executive,132171,26,17,2,4,Yes,24,7,3,4,1,9,1,Master's,1,18921,4,5,8,67,1420,2461,No
+840,35,Female,Married,Finance,Manager,144456,34,1,3,3,No,28,9,4,4,0,37,3,Bachelor's,1,8721,2,8,19,77,1899,17732,Yes
+841,32,Male,Single,IT,Analyst,92559,30,5,4,4,Yes,35,2,3,5,1,14,1,Master's,2,11423,4,0,2,64,129,5233,Yes
+842,30,Female,Married,Sales,Analyst,94892,36,16,3,1,No,31,5,4,5,2,4,4,High School,3,7930,2,4,14,76,1425,28667,Yes
+843,55,Male,Single,HR,Clerk,100409,21,15,3,3,Yes,13,6,2,2,2,20,3,PhD,3,7353,3,0,16,58,1599,14128,No
+844,33,Male,Married,Sales,Clerk,38635,17,2,3,1,No,35,6,4,2,0,28,3,Bachelor's,4,10832,2,0,15,60,972,7202,Yes
+845,56,Female,Divorced,HR,Analyst,63065,33,9,4,2,No,16,1,3,5,2,14,1,High School,2,19786,1,2,3,68,1047,4939,Yes
+846,56,Male,Single,Finance,Clerk,141399,10,7,1,3,Yes,15,2,3,5,0,34,2,Master's,3,19448,2,2,10,15,1475,17197,No
+847,22,Female,Married,Finance,Executive,137340,12,4,3,2,No,43,9,2,2,0,13,2,Master's,4,10770,2,3,7,99,1084,15722,No
+848,43,Female,Married,Operations,Engineer,63783,16,18,3,3,No,18,9,4,3,2,31,2,PhD,4,19556,3,2,2,60,1605,14998,No
+849,50,Male,Married,Sales,Engineer,64152,32,4,2,1,Yes,47,3,2,2,2,33,2,High School,1,18094,1,5,18,47,416,18472,Yes
+850,29,Female,Single,HR,Executive,88741,15,13,1,4,Yes,37,6,1,3,2,39,4,Bachelor's,2,10935,3,11,13,20,836,20047,Yes
+851,32,Female,Single,Finance,Engineer,137049,27,1,4,1,Yes,48,1,4,3,2,28,3,High School,3,5675,4,14,8,61,1520,5301,No
+852,58,Female,Single,IT,Manager,81502,28,3,2,1,Yes,48,2,2,2,2,25,2,Master's,2,14240,4,3,2,29,1212,23521,Yes
+853,35,Female,Divorced,Finance,Executive,59092,17,16,3,1,Yes,49,6,2,1,2,32,4,Bachelor's,2,7005,1,7,3,19,1357,29296,No
+854,51,Female,Divorced,IT,Clerk,47653,2,4,2,3,No,41,6,3,5,2,9,3,Master's,3,9544,4,0,3,35,267,29513,Yes
+855,56,Male,Single,HR,Executive,127999,36,16,2,4,Yes,27,9,4,4,1,28,1,Master's,3,17388,1,7,10,57,842,17640,No
+856,42,Female,Married,Finance,Analyst,129564,7,19,3,2,No,35,2,1,2,0,31,1,High School,2,17959,2,10,18,23,225,24413,Yes
+857,58,Female,Divorced,Finance,Clerk,70469,13,1,1,1,No,45,0,1,3,0,17,4,PhD,4,4694,4,0,15,68,672,18805,No
+858,26,Female,Single,HR,Analyst,116483,15,5,1,3,Yes,35,2,4,2,2,23,3,Master's,2,17753,2,10,16,21,219,22133,No
+859,40,Female,Married,Finance,Clerk,89754,25,19,2,2,No,28,4,4,5,0,13,2,High School,3,19526,3,0,9,32,1551,18131,No
+860,35,Female,Divorced,IT,Engineer,59978,23,11,3,1,No,39,6,2,3,2,10,3,Bachelor's,2,9001,4,6,16,94,1108,23355,Yes
+861,47,Male,Married,Finance,Executive,117592,22,13,4,2,Yes,38,3,3,4,1,16,2,PhD,3,9652,3,0,15,81,1313,25229,Yes
+862,25,Female,Married,Sales,Manager,124543,26,5,2,1,No,9,0,3,4,0,6,4,Master's,4,17985,3,8,19,48,1756,6433,Yes
+863,46,Male,Married,Operations,Clerk,73169,33,4,4,2,Yes,12,5,3,4,0,11,2,Master's,2,7581,1,13,5,18,1551,2265,No
+864,46,Male,Married,IT,Clerk,78287,11,4,2,2,Yes,15,1,4,1,1,3,4,Bachelor's,4,8087,3,14,6,97,659,4850,No
+865,39,Male,Divorced,Sales,Analyst,84745,10,4,2,4,Yes,21,2,3,3,1,28,3,High School,2,4460,1,7,13,34,1325,3378,No
+866,29,Male,Divorced,HR,Engineer,140168,25,4,3,4,No,35,3,2,3,1,15,3,Master's,2,6887,1,12,10,26,1182,8503,No
+867,35,Female,Divorced,IT,Analyst,143985,37,18,3,1,No,42,5,4,1,0,13,2,Bachelor's,3,17878,1,14,11,51,796,9157,No
+868,53,Male,Single,Operations,Analyst,35543,38,18,4,3,No,33,5,4,3,0,17,3,Master's,1,11484,1,0,13,38,322,12006,No
+869,59,Male,Divorced,Operations,Engineer,86392,24,16,4,4,No,19,6,3,1,1,7,2,High School,3,12835,1,1,4,69,1615,28840,No
+870,54,Female,Married,HR,Manager,51067,33,9,1,2,Yes,23,4,1,2,1,28,3,PhD,2,18643,2,1,4,76,1134,22800,No
+871,44,Female,Divorced,HR,Analyst,81033,17,18,3,4,No,13,6,1,5,1,38,1,High School,1,13910,1,1,19,94,892,2849,No
+872,36,Female,Married,IT,Analyst,75256,24,2,2,4,Yes,44,1,2,4,1,13,2,High School,1,8846,4,5,14,66,1824,6814,Yes
+873,54,Male,Single,Finance,Clerk,120633,37,4,2,1,No,1,0,3,1,1,17,4,High School,4,11463,1,3,0,81,1635,27567,No
+874,46,Female,Married,HR,Engineer,138383,2,12,1,4,No,29,9,3,1,2,15,1,Bachelor's,2,16336,2,7,8,23,913,22148,Yes
+875,38,Female,Married,Finance,Executive,139048,32,7,3,4,No,24,7,4,1,1,36,4,Master's,3,5369,4,0,2,48,409,25763,No
+876,54,Male,Married,Sales,Manager,99345,24,15,2,2,No,16,0,4,2,2,28,3,PhD,1,16992,4,14,3,25,1111,12000,Yes
+877,23,Female,Single,Operations,Manager,52191,9,7,1,4,No,25,1,3,1,0,15,1,Bachelor's,1,3882,2,9,15,27,848,17288,No
+878,35,Female,Divorced,Finance,Engineer,116803,4,17,1,2,Yes,23,9,4,5,0,11,3,High School,3,6171,4,13,6,84,1157,5274,Yes
+879,27,Female,Divorced,Operations,Clerk,102742,17,16,2,4,No,28,5,3,5,2,31,2,PhD,3,5040,2,3,13,29,1118,19100,No
+880,27,Female,Single,Finance,Clerk,148843,17,19,2,4,No,47,0,2,4,1,4,4,High School,1,9372,3,9,15,55,1463,23464,No
+881,24,Male,Married,Sales,Engineer,116593,30,9,4,3,No,16,9,4,2,0,35,3,High School,3,10562,3,10,17,54,1770,16227,No
+882,28,Female,Divorced,HR,Clerk,58992,11,14,3,4,No,43,2,3,5,1,34,4,High School,4,14776,1,4,15,13,580,19279,Yes
+883,29,Female,Single,Sales,Manager,142050,21,17,4,2,Yes,38,6,4,3,1,27,4,PhD,1,8900,1,8,15,93,673,11368,No
+884,36,Male,Divorced,HR,Manager,111531,21,5,1,2,No,11,7,2,3,2,10,3,Master's,4,10965,1,4,1,29,924,13945,Yes
+885,50,Female,Single,HR,Executive,78803,18,2,2,1,Yes,3,3,4,3,0,30,2,High School,2,11465,1,12,9,20,1862,11968,Yes
+886,54,Male,Married,Operations,Engineer,139975,29,16,4,1,No,15,2,3,1,0,20,4,Master's,4,3589,2,10,6,74,1216,29380,Yes
+887,51,Female,Divorced,Sales,Analyst,93477,24,14,1,3,Yes,1,0,4,1,2,29,3,PhD,3,8063,3,2,14,27,727,29968,Yes
+888,48,Male,Single,Finance,Analyst,43210,10,14,3,2,Yes,7,8,4,3,1,29,2,PhD,1,19240,2,10,8,48,1967,11651,Yes
+889,57,Male,Divorced,Sales,Executive,113329,17,1,2,2,Yes,1,9,3,4,1,23,3,High School,4,4258,4,3,6,53,1256,15903,No
+890,50,Male,Divorced,Operations,Executive,56270,18,3,4,2,Yes,49,5,1,4,0,21,2,Master's,3,16598,4,9,15,27,943,20927,Yes
+891,59,Male,Divorced,HR,Clerk,92008,20,7,3,3,Yes,32,5,4,1,2,10,4,Master's,3,5866,4,6,2,56,1088,9771,Yes
+892,54,Female,Divorced,Operations,Executive,35197,37,15,4,2,No,9,8,4,3,2,12,1,High School,4,19955,4,0,16,40,518,15460,Yes
+893,58,Male,Single,IT,Executive,143857,18,19,1,1,Yes,29,0,2,4,1,30,3,Bachelor's,1,11736,4,10,7,48,1591,6637,Yes
+894,48,Female,Married,IT,Analyst,37452,17,2,3,3,No,26,5,1,1,1,33,4,Bachelor's,4,15704,3,5,1,47,1928,14922,No
+895,54,Male,Single,Finance,Clerk,71486,9,19,4,1,Yes,23,4,2,3,2,18,3,PhD,2,3637,2,7,19,88,1567,10066,No
+896,25,Male,Single,Operations,Executive,44859,14,9,3,1,Yes,45,5,3,2,0,14,3,PhD,4,7882,4,0,2,56,1828,5553,No
+897,43,Male,Single,Finance,Executive,57236,29,19,1,3,No,43,7,3,3,1,22,2,Bachelor's,4,18828,1,7,7,79,129,3349,Yes
+898,23,Female,Married,Finance,Clerk,61899,31,5,3,4,Yes,29,4,2,3,2,21,3,Bachelor's,1,6672,3,6,1,17,397,4986,Yes
+899,31,Male,Divorced,IT,Engineer,62083,4,18,4,4,Yes,38,1,4,5,2,1,2,Bachelor's,4,15329,1,0,18,95,1184,25580,Yes
+900,26,Female,Divorced,Finance,Clerk,97708,18,16,1,1,Yes,33,1,1,5,2,15,4,High School,3,17967,3,8,16,74,557,13522,No
+901,31,Female,Divorced,IT,Analyst,141462,20,4,2,4,Yes,7,9,2,2,0,36,3,High School,1,7711,3,10,4,22,403,4122,Yes
+902,54,Female,Married,HR,Engineer,46663,9,12,4,2,No,12,4,2,2,1,22,4,High School,3,16235,1,2,19,64,1057,15892,No
+903,59,Female,Divorced,Operations,Manager,123076,13,7,4,3,Yes,31,2,3,3,1,32,1,High School,1,3159,1,1,16,97,439,10689,Yes
+904,34,Female,Married,Finance,Clerk,148665,15,14,1,1,Yes,32,9,4,4,1,33,4,High School,2,13144,4,6,9,94,1984,26430,Yes
+905,52,Female,Divorced,IT,Analyst,49053,27,12,1,2,No,20,2,1,2,0,39,3,High School,2,17793,1,10,8,52,547,27297,No
+906,57,Female,Divorced,Sales,Engineer,41085,15,3,2,4,No,17,7,2,3,1,23,1,PhD,2,12923,2,2,5,13,1959,16062,Yes
+907,45,Female,Single,Finance,Clerk,60564,28,5,4,2,Yes,36,6,1,1,1,2,2,Master's,4,8938,3,0,10,80,1425,3363,No
+908,36,Female,Married,HR,Executive,119745,37,17,1,4,Yes,3,0,1,5,1,2,1,PhD,2,14354,3,9,1,69,980,18691,Yes
+909,50,Male,Single,HR,Clerk,89095,19,10,2,1,No,1,4,2,4,1,38,3,Master's,1,12924,4,12,11,21,639,4751,No
+910,29,Male,Single,Sales,Manager,99517,26,10,2,2,Yes,27,8,1,3,0,29,3,PhD,2,3580,3,2,11,68,584,27459,Yes
+911,26,Male,Single,IT,Clerk,51153,26,11,1,3,No,47,3,3,1,2,3,4,PhD,1,7474,1,5,15,86,176,9782,Yes
+912,50,Male,Married,Finance,Engineer,35247,25,17,4,1,Yes,40,0,4,5,2,39,2,High School,3,12941,3,2,11,63,1756,19648,Yes
+913,25,Male,Married,IT,Engineer,40553,26,5,3,2,No,33,7,4,1,1,7,3,High School,4,10073,3,4,17,53,614,14540,Yes
+914,33,Female,Divorced,HR,Clerk,50811,26,13,3,2,No,20,4,4,3,1,36,3,Master's,3,12662,1,8,12,25,1672,15223,Yes
+915,23,Female,Single,IT,Engineer,125381,28,10,2,4,No,14,1,3,2,1,29,2,Master's,3,8059,1,6,14,15,1043,7339,No
+916,48,Female,Divorced,HR,Executive,36135,18,9,3,1,Yes,36,0,3,5,0,37,2,High School,2,16457,3,1,15,23,758,29020,No
+917,52,Female,Single,IT,Clerk,35573,32,17,3,1,Yes,5,2,3,1,1,36,4,PhD,2,7328,2,0,3,67,191,29609,Yes
+918,57,Female,Married,Sales,Executive,148819,3,1,1,1,Yes,23,8,4,2,0,23,1,Master's,2,3921,1,6,11,40,1974,25887,No
+919,57,Female,Married,Operations,Executive,109267,2,4,2,1,Yes,45,0,1,4,1,16,2,Bachelor's,3,5773,2,3,16,50,1908,7848,No
+920,47,Female,Married,Sales,Analyst,37189,33,4,4,4,No,15,3,3,3,1,31,3,Bachelor's,4,7462,2,10,0,44,565,27628,No
+921,48,Male,Single,Sales,Clerk,110077,19,18,2,3,No,6,7,2,3,2,34,2,Bachelor's,4,9733,4,6,17,19,565,18877,No
+922,26,Male,Married,Operations,Engineer,73646,17,9,1,1,No,33,7,3,5,1,1,3,Master's,3,14774,2,5,15,90,1722,20405,Yes
+923,41,Male,Single,Operations,Executive,106623,33,18,3,4,Yes,19,9,2,1,0,18,4,High School,4,12310,4,6,0,39,1163,20131,No
+924,32,Male,Divorced,Finance,Analyst,141971,12,14,4,3,Yes,13,7,4,4,2,15,1,High School,3,4865,2,3,9,53,789,17861,No
+925,31,Female,Single,Finance,Clerk,83687,3,15,2,3,Yes,29,9,2,5,0,17,4,High School,3,3711,4,2,18,64,1452,15465,Yes
+926,59,Female,Divorced,Sales,Clerk,98312,26,6,3,4,No,6,7,3,5,2,10,2,Master's,4,10710,1,11,15,80,1408,23471,Yes
+927,27,Female,Single,Sales,Manager,137615,35,10,2,1,Yes,15,3,3,1,0,20,3,Master's,1,16446,3,4,13,27,1046,5302,Yes
+928,29,Male,Divorced,HR,Manager,57564,8,15,4,3,Yes,16,7,1,4,2,6,2,Bachelor's,1,16394,3,2,1,92,653,16437,Yes
+929,44,Female,Married,HR,Executive,58835,36,4,2,1,No,24,8,4,1,0,8,2,Master's,2,3390,4,13,5,88,1920,17162,Yes
+930,47,Female,Divorced,Finance,Manager,91587,7,18,2,1,No,23,6,2,3,0,34,2,Bachelor's,4,12262,1,2,4,95,1189,16512,Yes
+931,33,Female,Married,Finance,Executive,37697,36,18,2,2,Yes,48,1,4,2,1,32,2,Bachelor's,2,7487,4,3,11,48,1759,25511,Yes
+932,47,Male,Married,HR,Engineer,110165,16,17,3,1,No,10,8,3,3,2,4,1,High School,3,13620,4,7,3,51,1780,7022,Yes
+933,34,Female,Divorced,HR,Executive,103922,24,12,4,2,Yes,41,7,1,3,2,39,3,Master's,1,16570,1,1,3,63,1755,12471,No
+934,39,Male,Single,IT,Manager,47046,1,7,4,3,No,41,4,3,5,1,20,2,High School,4,9066,2,3,4,39,208,8155,Yes
+935,46,Male,Single,IT,Engineer,87823,25,16,3,4,No,49,2,3,3,0,24,3,High School,4,7494,2,10,6,29,1538,27507,No
+936,54,Male,Single,HR,Manager,103580,10,11,3,2,No,17,6,3,4,0,24,1,Master's,4,6572,1,2,5,51,191,24793,Yes
+937,33,Male,Single,IT,Executive,83370,16,14,3,4,Yes,49,1,2,3,2,26,3,Master's,1,15670,4,6,12,98,1102,28501,Yes
+938,57,Female,Single,Operations,Analyst,39615,16,3,1,3,Yes,44,2,3,4,0,25,3,PhD,2,18939,3,1,3,96,467,7254,No
+939,25,Male,Married,Finance,Clerk,143338,8,19,2,1,Yes,45,8,4,1,2,36,1,Bachelor's,1,19260,4,0,12,14,919,27332,Yes
+940,26,Male,Single,Finance,Manager,35060,29,18,2,3,No,30,3,4,5,2,7,2,PhD,2,13249,2,9,3,59,522,27630,Yes
+941,58,Female,Married,HR,Executive,106436,39,10,4,4,No,44,3,1,4,0,10,3,Bachelor's,3,5311,1,0,9,50,671,6354,No
+942,29,Female,Married,Sales,Engineer,90519,28,6,2,3,No,46,2,4,3,0,12,4,Bachelor's,3,14071,1,5,19,48,961,21837,No
+943,49,Male,Married,HR,Manager,101117,6,13,1,1,No,10,4,3,5,0,1,3,Bachelor's,2,9773,1,2,0,66,1862,4516,No
+944,52,Female,Divorced,IT,Manager,91158,16,10,3,3,Yes,19,2,3,5,1,25,2,High School,3,9905,2,6,7,66,1363,17872,No
+945,30,Male,Divorced,Sales,Clerk,64782,20,18,4,1,Yes,29,8,4,4,2,16,4,High School,3,6642,4,7,6,46,534,12156,No
+946,50,Male,Married,IT,Executive,115709,16,16,4,2,Yes,2,2,1,4,0,5,2,Master's,4,9338,1,4,4,16,311,24453,No
+947,35,Male,Divorced,Operations,Analyst,108533,7,6,2,4,No,36,1,1,2,1,19,3,Bachelor's,4,19346,3,4,2,14,1523,25758,Yes
+948,43,Male,Single,IT,Engineer,138939,14,13,4,1,No,19,4,4,2,0,4,1,Bachelor's,1,12622,1,11,14,88,1733,10838,Yes
+949,32,Female,Single,Operations,Executive,88255,26,4,3,1,Yes,7,5,2,5,2,6,2,Bachelor's,1,18655,4,1,16,60,625,14734,Yes
+950,44,Male,Married,Operations,Engineer,141952,26,14,4,3,No,26,0,2,2,1,26,2,High School,1,13105,2,7,12,17,1853,13022,Yes
+951,22,Female,Single,IT,Manager,102684,14,1,3,2,Yes,15,5,2,3,2,39,1,Master's,4,9240,3,9,14,65,567,7208,Yes
+952,58,Female,Married,IT,Clerk,86918,7,5,1,1,No,47,9,2,1,0,39,3,High School,1,17797,3,12,18,82,1293,18578,No
+953,42,Female,Married,Operations,Clerk,114284,33,8,1,2,No,38,2,4,5,0,9,2,PhD,1,10806,1,0,19,20,1942,15725,No
+954,47,Female,Single,Sales,Analyst,109558,26,12,3,2,Yes,3,3,1,1,0,14,3,PhD,4,3757,4,9,13,31,891,11337,Yes
+955,57,Male,Divorced,Operations,Clerk,115549,20,2,2,3,Yes,38,5,3,2,1,9,3,PhD,2,9220,1,8,12,86,974,12701,No
+956,44,Female,Single,Finance,Manager,134223,3,12,4,1,No,16,7,3,4,1,15,3,Master's,4,13104,3,0,11,20,309,22675,Yes
+957,22,Male,Single,Operations,Analyst,111422,4,5,2,3,Yes,2,8,4,5,1,37,1,PhD,2,17316,1,0,8,69,355,12275,No
+958,36,Female,Married,Sales,Executive,55256,26,5,4,4,Yes,31,5,3,2,1,20,3,Master's,4,12326,4,0,2,24,1806,8210,Yes
+959,42,Female,Married,Finance,Clerk,60005,11,13,1,4,No,28,6,2,3,0,8,3,High School,1,11956,2,6,10,47,172,13544,Yes
+960,30,Male,Married,HR,Analyst,36638,2,9,1,1,No,7,4,1,5,0,32,4,High School,3,6497,3,3,9,10,246,23514,Yes
+961,30,Male,Married,HR,Manager,67419,14,10,1,2,No,30,8,4,5,0,21,4,Master's,3,12864,4,11,0,55,1463,18327,No
+962,31,Male,Divorced,Sales,Engineer,63377,30,1,4,1,Yes,43,3,1,4,1,19,4,High School,2,11774,1,6,16,97,416,16041,No
+963,47,Female,Divorced,Operations,Engineer,136244,12,3,1,1,No,7,9,4,5,1,29,2,High School,2,17039,3,4,12,52,1741,18705,Yes
+964,56,Female,Divorced,IT,Manager,73116,26,18,1,4,No,36,5,4,4,0,31,2,Master's,2,4821,1,11,13,31,705,12479,No
+965,46,Male,Married,Sales,Manager,66634,33,12,1,4,No,29,4,4,2,0,6,4,PhD,3,15717,1,13,0,12,674,13323,Yes
+966,47,Male,Married,Finance,Engineer,112291,13,3,1,2,No,24,0,4,3,1,4,1,Master's,2,13372,2,6,1,23,1277,14937,Yes
+967,32,Male,Married,Finance,Analyst,53382,14,9,2,2,No,39,4,1,3,2,29,1,Bachelor's,4,11380,1,9,1,11,1378,25089,No
+968,59,Male,Divorced,HR,Engineer,145303,24,2,1,1,Yes,4,4,3,5,0,3,4,High School,4,4746,1,13,6,70,1474,3702,Yes
+969,23,Female,Married,Finance,Manager,86063,34,3,1,3,No,29,8,4,5,0,1,2,Master's,3,8797,4,6,8,41,646,12404,Yes
+970,28,Male,Single,Sales,Clerk,52394,26,14,2,1,No,44,0,2,2,0,15,2,High School,4,19283,1,3,3,47,934,2830,Yes
+971,39,Male,Single,Finance,Executive,97789,21,4,2,2,Yes,5,4,4,4,1,21,1,PhD,2,11089,2,1,1,55,411,10380,No
+972,48,Male,Married,Sales,Clerk,133246,28,19,4,3,No,29,6,1,3,0,31,3,High School,3,15137,1,7,18,51,907,23990,Yes
+973,55,Male,Single,IT,Clerk,140634,36,13,3,4,No,30,5,4,4,0,7,1,Master's,2,10597,1,1,4,15,864,2091,Yes
+974,48,Female,Single,HR,Manager,30864,2,7,1,2,Yes,29,5,2,2,0,17,3,PhD,4,9107,1,8,8,50,1792,5877,Yes
+975,38,Male,Divorced,Finance,Engineer,129572,9,12,1,2,No,26,6,1,3,0,19,2,PhD,2,5793,3,4,12,34,233,12103,Yes
+976,45,Female,Married,Sales,Analyst,70222,23,3,1,3,Yes,19,5,4,3,0,39,2,PhD,3,14138,2,8,11,20,1047,20720,No
+977,46,Male,Married,Operations,Clerk,43666,15,9,4,2,No,26,4,2,1,2,3,4,Bachelor's,2,5500,3,14,18,50,1252,9676,Yes
+978,28,Male,Divorced,HR,Engineer,50955,13,2,1,2,Yes,37,9,1,2,2,30,2,Master's,4,16138,2,8,8,80,535,3580,Yes
+979,27,Female,Single,IT,Analyst,140674,23,9,3,2,Yes,27,4,4,2,0,35,3,Master's,1,11361,2,13,9,66,1403,17787,No
+980,45,Male,Single,Sales,Clerk,133533,17,12,2,2,No,30,8,2,1,0,29,1,PhD,3,7925,4,7,18,55,457,11600,No
+981,54,Female,Married,IT,Analyst,111845,2,12,4,2,Yes,30,7,1,4,0,14,4,High School,2,7453,3,7,9,95,1029,17412,No
+982,50,Female,Single,IT,Engineer,146925,20,15,2,2,Yes,3,9,4,1,0,35,3,PhD,3,17779,2,3,11,57,982,26750,No
+983,43,Male,Divorced,Finance,Executive,99590,20,2,1,2,No,43,3,1,2,1,28,1,Bachelor's,2,15100,2,13,13,72,351,24176,No
+984,47,Female,Divorced,Finance,Engineer,96471,3,18,1,2,No,7,3,2,4,1,30,1,PhD,1,18162,4,3,7,48,234,26130,No
+985,49,Female,Married,Sales,Manager,140476,12,13,1,4,Yes,49,9,4,3,1,26,1,Master's,4,4325,3,13,15,19,1966,2473,Yes
+986,42,Female,Divorced,Operations,Analyst,118314,2,14,3,2,No,9,4,4,1,2,7,2,PhD,2,14369,1,1,16,94,622,13624,Yes
+987,28,Female,Divorced,Sales,Executive,73298,36,5,3,4,Yes,41,2,4,4,0,39,1,High School,2,13340,4,3,19,79,903,18653,No
+988,38,Female,Married,Operations,Analyst,93108,14,10,4,4,Yes,42,7,2,4,1,31,2,Master's,1,16408,2,3,3,74,759,28620,Yes
+989,41,Female,Divorced,IT,Analyst,143864,16,12,2,1,No,13,6,3,4,0,5,1,High School,3,4461,3,5,5,68,418,24934,No
+990,41,Female,Divorced,HR,Clerk,78924,19,10,1,1,No,15,4,4,1,0,35,1,PhD,4,12594,2,2,11,87,179,29771,Yes
+991,43,Female,Divorced,Sales,Manager,46709,34,11,1,4,Yes,5,9,2,3,2,14,2,Master's,2,3072,4,1,17,45,1314,19077,No
+992,49,Male,Single,Sales,Analyst,39726,6,2,1,4,No,29,2,1,4,2,36,2,Bachelor's,2,9030,4,14,6,36,1576,14663,No
+993,28,Male,Married,Operations,Engineer,90824,13,5,1,2,No,35,4,1,1,1,27,3,Master's,4,10717,3,7,4,82,1467,19799,Yes
+994,22,Female,Married,IT,Engineer,70542,36,7,3,1,Yes,27,2,2,2,1,24,1,High School,1,16331,4,1,9,64,1153,16517,No
+995,53,Male,Married,IT,Clerk,50245,22,6,2,3,Yes,27,9,3,1,2,29,2,Master's,3,16936,4,7,5,79,513,20467,Yes
+996,34,Female,Single,Operations,Manager,64753,18,3,2,1,Yes,8,4,2,1,2,22,3,Bachelor's,4,6576,1,6,13,90,1994,19619,No
+997,51,Female,Single,IT,Manager,109788,12,13,4,4,Yes,32,0,1,1,0,8,3,Bachelor's,3,11100,2,2,5,62,467,5967,No
+998,44,Male,Married,Finance,Engineer,51316,30,3,3,4,Yes,20,5,1,4,0,15,2,Bachelor's,1,16612,1,5,13,69,1106,28547,Yes
+999,40,Female,Single,HR,Executive,132907,7,6,1,2,Yes,10,9,4,1,1,5,1,Bachelor's,1,8728,1,5,11,70,1864,26709,No
+1000,53,Female,Married,Sales,Clerk,114698,32,11,2,2,No,13,3,3,2,1,4,3,High School,4,3032,3,9,11,45,1092,29488,Yes
